@@ -1,0 +1,6 @@
+E:\Games\mod\Rimworld\steam_custom_mod\custom_source\TurkeyLeg.Quartermaster.ZH\TurkeyLeg.Quartermaster.ZH\bin\Debug\TurkeyLeg.Quartermaster.ZH.dll
+E:\Games\mod\Rimworld\steam_custom_mod\custom_source\TurkeyLeg.Quartermaster.ZH\TurkeyLeg.Quartermaster.ZH\bin\Debug\TurkeyLeg.Quartermaster.ZH.pdb
+E:\Games\mod\Rimworld\steam_custom_mod\custom_source\TurkeyLeg.Quartermaster.ZH\TurkeyLeg.Quartermaster.ZH\obj\Debug\TurkeyLeg.Quartermaster.ZH.csproj.AssemblyReference.cache
+E:\Games\mod\Rimworld\steam_custom_mod\custom_source\TurkeyLeg.Quartermaster.ZH\TurkeyLeg.Quartermaster.ZH\obj\Debug\TurkeyLeg.Quartermaster.ZH.csproj.CoreCompileInputs.cache
+E:\Games\mod\Rimworld\steam_custom_mod\custom_source\TurkeyLeg.Quartermaster.ZH\TurkeyLeg.Quartermaster.ZH\obj\Debug\TurkeyLeg.Quartermaster.ZH.dll
+E:\Games\mod\Rimworld\steam_custom_mod\custom_source\TurkeyLeg.Quartermaster.ZH\TurkeyLeg.Quartermaster.ZH\obj\Debug\TurkeyLeg.Quartermaster.ZH.pdb
