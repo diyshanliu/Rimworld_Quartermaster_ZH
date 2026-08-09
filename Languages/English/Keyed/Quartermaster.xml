@@ -177,6 +177,10 @@ Manage hidden items via the Exclusions button.</TurkeyLeg_QM_HideItemTooltip>
   <TurkeyLeg_QM_TooltipScoreRangesDynamic>Score ranges: {0} (unreachable ranges count as 0)</TurkeyLeg_QM_TooltipScoreRangesDynamic>
   <TurkeyLeg_QM_NoCraftableWeaponDefinitions>No craftable weapon definitions found.
 (Some weapon types are unticked in the Types row above.)</TurkeyLeg_QM_NoCraftableWeaponDefinitions>
+  <TurkeyLeg_QM_NoCraftableWeaponsFiltered>No weapons can be crafted right now.
+Build crafting benches and complete research,
+or enable "Show unavailable" to see what's missing.
+(Some weapon types are unticked in the Types row above.)</TurkeyLeg_QM_NoCraftableWeaponsFiltered>
 
   <!-- ========================================================= -->
   <!-- 09. Exclusion manager -->

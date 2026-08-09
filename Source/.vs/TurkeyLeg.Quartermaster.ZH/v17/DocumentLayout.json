@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "E:\\Games\\mod\\Rimworld\\steam_custom_mod\\custom_source\\TurkeyLeg.Quartermaster.ZH\\Quartermaster_ZH\\Source\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F7BD646-189F-4643-A68E-A2A8565A8263}|TurkeyLeg.Quartermaster.ZH\\TurkeyLeg.Quartermaster.ZH.csproj|E:\\Games\\mod\\Rimworld\\steam_custom_mod\\custom_source\\TurkeyLeg.Quartermaster.ZH\\Quartermaster_ZH\\Source\\turkeyleg.quartermaster.zh\\translation\\qmtranslationcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F7BD646-189F-4643-A68E-A2A8565A8263}|TurkeyLeg.Quartermaster.ZH\\TurkeyLeg.Quartermaster.ZH.csproj|e:\\games\\mod\\rimworld\\steam_custom_mod\\custom_source\\turkeyleg.quartermaster.zh\\quartermaster_zh\\source\\turkeyleg.quartermaster.zh\\translation\\qmtranslationcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F7BD646-189F-4643-A68E-A2A8565A8263}|TurkeyLeg.Quartermaster.ZH\\TurkeyLeg.Quartermaster.ZH.csproj|solutionrelative:turkeyleg.quartermaster.zh\\translation\\qmtranslationcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F7BD646-189F-4643-A68E-A2A8565A8263}|TurkeyLeg.Quartermaster.ZH\\TurkeyLeg.Quartermaster.ZH.csproj|e:\\games\\mod\\rimworld\\steam_custom_mod\\custom_source\\turkeyleg.quartermaster.zh\\quartermaster_zh\\source\\turkeyleg.quartermaster.zh\\translation\\qmzh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F7BD646-189F-4643-A68E-A2A8565A8263}|TurkeyLeg.Quartermaster.ZH\\TurkeyLeg.Quartermaster.ZH.csproj|E:\\Games\\mod\\Rimworld\\steam_custom_mod\\custom_source\\TurkeyLeg.Quartermaster.ZH\\Quartermaster_ZH\\Source\\turkeyleg.quartermaster.zh\\translation\\qmzh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F7BD646-189F-4643-A68E-A2A8565A8263}|TurkeyLeg.Quartermaster.ZH\\TurkeyLeg.Quartermaster.ZH.csproj|solutionrelative:turkeyleg.quartermaster.zh\\translation\\qmzh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "TurkeyLeg.Quartermaster.ZH\\Translation\\QmTranslationCatalog.cs",
               "ToolTip": "E:\\Games\\mod\\Rimworld\\steam_custom_mod\\custom_source\\TurkeyLeg.Quartermaster.ZH\\Quartermaster_ZH\\Source\\TurkeyLeg.Quartermaster.ZH\\Translation\\QmTranslationCatalog.cs",
               "RelativeToolTip": "TurkeyLeg.Quartermaster.ZH\\Translation\\QmTranslationCatalog.cs",
-              "ViewState": "AgIAAAACAAAAAAAAAAAAwBkCAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAACAAAAAAAAAAAAwBgCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-09T03:10:57.286Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "TurkeyLeg.Quartermaster.ZH\\Translation\\QmZh.cs",
               "ViewState": "AgIAAFUBAAAAAAAAAAAUwGcBAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T03:10:44.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-09T03:10:44.84Z"
             }
           ]
         }

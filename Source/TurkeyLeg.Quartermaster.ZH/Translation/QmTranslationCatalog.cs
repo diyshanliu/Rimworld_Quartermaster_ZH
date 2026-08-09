@@ -543,6 +543,8 @@ namespace TurkeyLeg.Quartermaster.ZH
                 { "Done", "TurkeyLeg_QM_Done" },
                 { "No items match the current filter.", "TurkeyLeg_QM_NoItemsMatchCurrentFilter" },
                 {"No craftable weapon definitions found.\n(Some weapon types are unticked in the Types row above.)", "TurkeyLeg_QM_NoCraftableWeaponDefinitions"},
+                {"No weapons can be crafted right now.\nBuild crafting benches and complete research,\nor enable \"Show unavailable\" to see what's missing.\n(Some weapon types are unticked in the Types row above.)",
+    "TurkeyLeg_QM_NoCraftableWeaponsFiltered"},
                 { "enforced", "TurkeyLeg_QM_enforced" },
                 { "You can restore it anytime from the Exclusions menu.", "TurkeyLeg_QM_RestoreFromExclusions" },
             };

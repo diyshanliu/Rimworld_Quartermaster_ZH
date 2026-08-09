@@ -176,6 +176,7 @@
   <TurkeyLeg_QM_DeletePresetConfirmation>確定要刪除自定義預設“{0}”嗎？</TurkeyLeg_QM_DeletePresetConfirmation>
   <TurkeyLeg_QM_TooltipScoreRangesDynamic>評分距離：{0}（無法攻擊的距離按 0 分計算）</TurkeyLeg_QM_TooltipScoreRangesDynamic>
   <TurkeyLeg_QM_NoCraftableWeaponDefinitions>當前沒有符合篩選條件的可製作武器。&#10;（上方「型別」一欄中有武器型別未勾選。）</TurkeyLeg_QM_NoCraftableWeaponDefinitions>
+  <TurkeyLeg_QM_NoCraftableWeaponsFiltered>當前沒有可製作的武器。&#10;請建造製作工作臺並完成研究，&#10;或啟用“顯示不可用物品”檢視缺少的條件。&#10;（上方「型別」一欄中有武器型別未勾選。）</TurkeyLeg_QM_NoCraftableWeaponsFiltered>
 
   <!-- ========================================================= -->
   <!-- 09. Exclusion manager -->
