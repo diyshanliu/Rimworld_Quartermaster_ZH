@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: quartermaster -->
+  <Quartermaster.label>军需官</Quartermaster.label>
+  <!-- EN: Shows the best armor, weapons, and gear your colony can currently craft. -->
+  <Quartermaster.description>显示殖民地目前能够制造的最好的护甲、武器和装备。</Quartermaster.description>
+  
+</LanguageData>

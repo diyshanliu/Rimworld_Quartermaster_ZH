@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ========================================================= -->
+  <!-- 01. Main window -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_Quartermaster>Quartermaster</TurkeyLeg_QM_Quartermaster>
+  <TurkeyLeg_QM_Armor>Armor</TurkeyLeg_QM_Armor>
+  <TurkeyLeg_QM_Weapons>Weapons</TurkeyLeg_QM_Weapons>
+  <TurkeyLeg_QM_Buffs>Buffs</TurkeyLeg_QM_Buffs>
+  <TurkeyLeg_QM_Options>Options</TurkeyLeg_QM_Options>
+  <TurkeyLeg_QM_Exclusions>Exclusions</TurkeyLeg_QM_Exclusions>
+  <TurkeyLeg_QM_Refresh>Refresh</TurkeyLeg_QM_Refresh>
+  <TurkeyLeg_QM_CreatePolicy>Create policy</TurkeyLeg_QM_CreatePolicy>
+  <TurkeyLeg_QM_EditPreset>Edit preset</TurkeyLeg_QM_EditPreset>
+  <TurkeyLeg_QM_ShowUnavailable>Show unavailable</TurkeyLeg_QM_ShowUnavailable>
+  <TurkeyLeg_QM_BestPossible>Best possible</TurkeyLeg_QM_BestPossible>
+  <TurkeyLeg_QM_ShowCrafted>Show crafted</TurkeyLeg_QM_ShowCrafted>
+  <TurkeyLeg_QM_MaxArmor>Max armor:</TurkeyLeg_QM_MaxArmor>
+
+  <!-- ========================================================= -->
+  <!-- 02. Presets -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_Standard>Standard</TurkeyLeg_QM_Standard>
+  <TurkeyLeg_QM_MeleeHeavy>Melee Heavy</TurkeyLeg_QM_MeleeHeavy>
+  <TurkeyLeg_QM_MeleeAgile>Melee Agile</TurkeyLeg_QM_MeleeAgile>
+  <TurkeyLeg_QM_RangedHeavy>Ranged Heavy</TurkeyLeg_QM_RangedHeavy>
+  <TurkeyLeg_QM_RangedAgile>Ranged Agile</TurkeyLeg_QM_RangedAgile>
+  <TurkeyLeg_QM_Heat>Heat</TurkeyLeg_QM_Heat>
+  <TurkeyLeg_QM_Cold>Cold</TurkeyLeg_QM_Cold>
+  <TurkeyLeg_QM_AddCustom>+ Custom</TurkeyLeg_QM_AddCustom>
+  <TurkeyLeg_QM_Bonuses>Bonuses</TurkeyLeg_QM_Bonuses>
+
+  <!-- ========================================================= -->
+  <!-- 03. Armor table -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_HeaderArmor>ARMOR</TurkeyLeg_QM_HeaderArmor>
+  <TurkeyLeg_QM_HeaderSlot>SLOT</TurkeyLeg_QM_HeaderSlot>
+  <TurkeyLeg_QM_HeaderMaterial>MATERIAL</TurkeyLeg_QM_HeaderMaterial>
+  <TurkeyLeg_QM_HeaderSharp>SHARP</TurkeyLeg_QM_HeaderSharp>
+  <TurkeyLeg_QM_HeaderBlunt>BLUNT</TurkeyLeg_QM_HeaderBlunt>
+  <TurkeyLeg_QM_HeaderHeat>HEAT</TurkeyLeg_QM_HeaderHeat>
+  <TurkeyLeg_QM_HeaderStatus>STATUS</TurkeyLeg_QM_HeaderStatus>
+  <TurkeyLeg_QM_Head>HEAD</TurkeyLeg_QM_Head>
+  <TurkeyLeg_QM_Body>BODY</TurkeyLeg_QM_Body>
+  <TurkeyLeg_QM_Legs>LEGS</TurkeyLeg_QM_Legs>
+  <TurkeyLeg_QM_Accessories>ACCESSORIES</TurkeyLeg_QM_Accessories>
+  <TurkeyLeg_QM_OnTheMap>ON THE MAP</TurkeyLeg_QM_OnTheMap>
+  <TurkeyLeg_QM_SetItem>+ Set item</TurkeyLeg_QM_SetItem>
+  <TurkeyLeg_QM_RefreshList>Refresh list</TurkeyLeg_QM_RefreshList>
+  <TurkeyLeg_QM_IncludeSelectedGear>Include selected pawn's gear</TurkeyLeg_QM_IncludeSelectedGear>
+  <TurkeyLeg_QM_ShowTainted>Show tainted</TurkeyLeg_QM_ShowTainted>
+  <TurkeyLeg_QM_Focus>Focus</TurkeyLeg_QM_Focus>
+  <TurkeyLeg_QM_LegsNormal>Legs</TurkeyLeg_QM_LegsNormal>
+  <TurkeyLeg_QM_BodyNormal>Body</TurkeyLeg_QM_BodyNormal>
+  <TurkeyLeg_QM_HeadNormal>Head</TurkeyLeg_QM_HeadNormal>
+
+  <!-- ========================================================= -->
+  <!-- 04. Armor summary -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_ArmorPerBodyPart>ARMOR PER BODY PART</TurkeyLeg_QM_ArmorPerBodyPart>
+  <TurkeyLeg_QM_CombinedSetStats>COMBINED SET STATS</TurkeyLeg_QM_CombinedSetStats>
+  <TurkeyLeg_QM_Torso>Torso</TurkeyLeg_QM_Torso>
+  <TurkeyLeg_QM_Arms>Arms</TurkeyLeg_QM_Arms>
+  <TurkeyLeg_QM_Utility>Utility</TurkeyLeg_QM_Utility>
+  <TurkeyLeg_QM_Combat>Combat</TurkeyLeg_QM_Combat>
+  <TurkeyLeg_QM_Social>Social</TurkeyLeg_QM_Social>
+  <TurkeyLeg_QM_Crafting>Crafting</TurkeyLeg_QM_Crafting>
+  <TurkeyLeg_QM_Nature>Nature</TurkeyLeg_QM_Nature>
+  <TurkeyLeg_QM_Knowledge>Knowledge</TurkeyLeg_QM_Knowledge>
+
+  <!-- ========================================================= -->
+  <!-- 05. Weapons -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_Weapon>WEAPON</TurkeyLeg_QM_Weapon>
+  <TurkeyLeg_QM_Score>SCORE</TurkeyLeg_QM_Score>
+  <TurkeyLeg_QM_DPS>DPS</TurkeyLeg_QM_DPS>
+  <TurkeyLeg_QM_AP>AP</TurkeyLeg_QM_AP>
+  <TurkeyLeg_QM_DMG>DMG</TurkeyLeg_QM_DMG>
+  <TurkeyLeg_QM_RNG>RNG</TurkeyLeg_QM_RNG>
+  <TurkeyLeg_QM_AccuracyCloseShort>aC</TurkeyLeg_QM_AccuracyCloseShort>
+  <TurkeyLeg_QM_AccuracyShortShort>aS</TurkeyLeg_QM_AccuracyShortShort>
+  <TurkeyLeg_QM_AccuracyMediumShort>aM</TurkeyLeg_QM_AccuracyMediumShort>
+  <TurkeyLeg_QM_AccuracyLongShort>aL</TurkeyLeg_QM_AccuracyLongShort>
+  <TurkeyLeg_QM_Time>TIME</TurkeyLeg_QM_Time>
+  <TurkeyLeg_QM_Burst>BRST</TurkeyLeg_QM_Burst>
+  <TurkeyLeg_QM_Mass>MASS</TurkeyLeg_QM_Mass>
+  <TurkeyLeg_QM_Value>VALUE</TurkeyLeg_QM_Value>
+  <TurkeyLeg_QM_MeleeWeapons>MELEE WEAPONS</TurkeyLeg_QM_MeleeWeapons>
+  <TurkeyLeg_QM_RangedWeapons>RANGED WEAPONS</TurkeyLeg_QM_RangedWeapons>
+  <TurkeyLeg_QM_ThrowingWeapons>THROWING WEAPONS</TurkeyLeg_QM_ThrowingWeapons>
+  <TurkeyLeg_QM_Grenades>GRENADES</TurkeyLeg_QM_Grenades>
+  <TurkeyLeg_QM_Launchers>LAUNCHERS</TurkeyLeg_QM_Launchers>
+  <TurkeyLeg_QM_Types>Types:</TurkeyLeg_QM_Types>
+  <TurkeyLeg_QM_Melee>Melee</TurkeyLeg_QM_Melee>
+  <TurkeyLeg_QM_Ranged>Ranged</TurkeyLeg_QM_Ranged>
+  <TurkeyLeg_QM_Throwing>Throwing</TurkeyLeg_QM_Throwing>
+  <TurkeyLeg_QM_GrenadesNormal>Grenades</TurkeyLeg_QM_GrenadesNormal>
+  <TurkeyLeg_QM_LaunchersNormal>Launchers</TurkeyLeg_QM_LaunchersNormal>
+  <TurkeyLeg_QM_ScoreAt>Score at:</TurkeyLeg_QM_ScoreAt>
+  <TurkeyLeg_QM_Close>Close</TurkeyLeg_QM_Close>
+  <TurkeyLeg_QM_Short>Short</TurkeyLeg_QM_Short>
+  <TurkeyLeg_QM_Medium>Medium</TurkeyLeg_QM_Medium>
+  <TurkeyLeg_QM_Long>Long</TurkeyLeg_QM_Long>
+
+  <!-- ========================================================= -->
+  <!-- 06. Buffs -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_Item>ITEM</TurkeyLeg_QM_Item>
+  <TurkeyLeg_QM_Bonus>BONUS</TurkeyLeg_QM_Bonus>
+  <TurkeyLeg_QM_Filter>Filter:</TurkeyLeg_QM_Filter>
+  <TurkeyLeg_QM_SearchBuffsPlaceholder>search buffs: carry, research, work...</TurkeyLeg_QM_SearchBuffsPlaceholder>
+
+  <!-- ========================================================= -->
+  <!-- 07. Main UI tooltips -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_BestPossibleTooltip>Shows the best set your benches could craft if you had the materials. Ignores what's in your stockpiles right now.</TurkeyLeg_QM_BestPossibleTooltip>
+  <TurkeyLeg_QM_ArmorCapTooltip>Armor % per body region the optimizer treats as 'enough' (default 200%). Above this, extra armor on that region scores nothing, so utility items are preferred there. RimWorld's effective armor cap is around 200%.</TurkeyLeg_QM_ArmorCapTooltip>
+  <TurkeyLeg_QM_ShowCraftedTooltip>Show items you already have - lying on the map or equipped by colonists - so you can compare them against what you can craft. The armor tab keeps its ON THE MAP section; the Weapons and Buffs lists mix the owned items into their rankings (marked owned / equipped / worn).</TurkeyLeg_QM_ShowCraftedTooltip>
+  <TurkeyLeg_QM_CreateCustomPresetTooltip>Create a custom preset that chases buffs you pick (e.g. work speed + construction, or research + work speed). It appears as a tab here and uses the same armor/bonuses slider.</TurkeyLeg_QM_CreateCustomPresetTooltip>
+  <TurkeyLeg_QM_IncludeSelectedGearTooltip>Also consider the selected pawn's currently worn apparel (no weapons) when picking the best set on the map. Captured when you toggle this or press Refresh list; reselect a pawn and refresh to update.</TurkeyLeg_QM_IncludeSelectedGearTooltip>
+  <TurkeyLeg_QM_MaxPiecesTooltip>Cap how many apparel pieces the generated set may use. The optimizer always picks the most valuable pieces first, so a low cap keeps a lean set that gets close to the full result. 20 = no practical limit.</TurkeyLeg_QM_MaxPiecesTooltip>
+  <TurkeyLeg_QM_RefreshTooltip>Rescan the map, research, benches, and materials, and rebuild all recommendations.</TurkeyLeg_QM_RefreshTooltip>
+  <TurkeyLeg_QM_BlendTooltip>Blend the set between pure protection (left) and this preset's bonus stats (right).</TurkeyLeg_QM_BlendTooltip>
+  <TurkeyLeg_QM_ShowUnavailableTooltip>Lists every craftable item in the game, showing the research, bench, or materials you're still missing (in red) for each.</TurkeyLeg_QM_ShowUnavailableTooltip>
+  <TurkeyLeg_QM_MinCraftableTooltip>Only count gear your stockpiles could craft at least this many times (any allowed material). Raise it when outfitting the whole colony: an item craftable just once won't gear ten colonists. 1 = show anything craftable at all.</TurkeyLeg_QM_MinCraftableTooltip>
+  <TurkeyLeg_QM_ExclusionsTooltip>Hide items, whole mods, weapon classes, or benches from recommendations.</TurkeyLeg_QM_ExclusionsTooltip>
+  <TurkeyLeg_QM_OptionsTooltip>Window options: lock/unlock dragging and resizing, reset the position, or open the mod settings (including the classic interface toggle).</TurkeyLeg_QM_OptionsTooltip>
+  <TurkeyLeg_QM_ShowTaintedTooltip>Include corpse-tainted apparel in this list (marked tainted). Colonists take a mood penalty for wearing tainted clothing.</TurkeyLeg_QM_ShowTaintedTooltip>
+  <TurkeyLeg_QM_HideItemTooltip>Hide this item from recommendations (asks to confirm; Shift-click to skip).
+Manage hidden items via the Exclusions button.</TurkeyLeg_QM_HideItemTooltip>
+  <TurkeyLeg_QM_PinItemsTooltip>Pin specific items into this category. Pinned items are always included in the generated set (marked "enforced"), and the rest of the set is built around them.</TurkeyLeg_QM_PinItemsTooltip>
+  <TurkeyLeg_QM_CreatePolicyTooltip>Create a RimWorld apparel policy allowing only the apparel in the set shown above (including pinned items). Named after the active tab, with a number to avoid clashes. Assign it from a colonist's Apparel tab.</TurkeyLeg_QM_CreatePolicyTooltip>
+  <TurkeyLeg_QM_FocusTooltip>Jump to and select this item on the map.</TurkeyLeg_QM_FocusTooltip>
+  <TurkeyLeg_QM_RefreshListTooltip>Re-scan items on the map for this set. The list stays put while you equip pieces, so you don't lose your place; press this to re-evaluate against what's left on the map.</TurkeyLeg_QM_RefreshListTooltip>
+  <TurkeyLeg_QM_ShowMeleeTooltip>Show or hide the melee section of the weapon list.</TurkeyLeg_QM_ShowMeleeTooltip>
+  <TurkeyLeg_QM_ShowRangedTooltip>Show or hide the ranged section of the weapon list.</TurkeyLeg_QM_ShowRangedTooltip>
+  <TurkeyLeg_QM_ShowThrowingTooltip>Show or hide the throwing section of the weapon list.</TurkeyLeg_QM_ShowThrowingTooltip>
+  <TurkeyLeg_QM_ShowGrenadesTooltip>Show or hide the grenades section of the weapon list.</TurkeyLeg_QM_ShowGrenadesTooltip>
+  <TurkeyLeg_QM_ShowLaunchersTooltip>Show or hide the launchers section of the weapon list.</TurkeyLeg_QM_ShowLaunchersTooltip>
+  <TurkeyLeg_QM_CollapseBuffTooltip>Click to collapse this buff category.</TurkeyLeg_QM_CollapseBuffTooltip>
+  <TurkeyLeg_QM_ExpandBuffTooltip>Click to expand this buff category.</TurkeyLeg_QM_ExpandBuffTooltip>
+
+  <!-- ========================================================= -->
+  <!-- 08. Custom preset dialog -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_Cancel>Cancel</TurkeyLeg_QM_Cancel>
+  <TurkeyLeg_QM_Save>Save</TurkeyLeg_QM_Save>
+  <TurkeyLeg_QM_SelectPresetToEdit>Select a preset tab to edit it (Standard cannot be edited).</TurkeyLeg_QM_SelectPresetToEdit>
+  <TurkeyLeg_QM_NewCustomPreset>New custom preset</TurkeyLeg_QM_NewCustomPreset>
+  <TurkeyLeg_QM_CustomPresetDescription>Pick the buffs this outfit should chase (e.g. work speed + construction, or research + work speed). The preset gets its own tab, and its slider blends armor against these buffs. Stats marked "lower is better" are chased downward.</TurkeyLeg_QM_CustomPresetDescription>
+  <TurkeyLeg_QM_Name>Name:</TurkeyLeg_QM_Name>
+  <TurkeyLeg_QM_AutoNamed>auto-named from picked buffs</TurkeyLeg_QM_AutoNamed>
+  <TurkeyLeg_QM_SearchPlaceholder>Search...</TurkeyLeg_QM_SearchPlaceholder>
+  <TurkeyLeg_QM_Temperature>TEMPERATURE</TurkeyLeg_QM_Temperature>
+  <TurkeyLeg_QM_Mobility>MOBILITY</TurkeyLeg_QM_Mobility>
+  <TurkeyLeg_QM_Shooting>SHOOTING</TurkeyLeg_QM_Shooting>
+  <TurkeyLeg_QM_MeleeCategory>MELEE</TurkeyLeg_QM_MeleeCategory>
+  <TurkeyLeg_QM_Work>WORK</TurkeyLeg_QM_Work>
+  <TurkeyLeg_QM_SocialCategory>SOCIAL</TurkeyLeg_QM_SocialCategory>
+  <TurkeyLeg_QM_Carry>CARRY</TurkeyLeg_QM_Carry>
+  <TurkeyLeg_QM_Other>OTHER</TurkeyLeg_QM_Other>
+  <TurkeyLeg_QM_LowerIsBetter>lower is better</TurkeyLeg_QM_LowerIsBetter>
+  <TurkeyLeg_QM_NoApparelForPolicy>No apparel in the current set to save into a policy.</TurkeyLeg_QM_NoApparelForPolicy>
+  <TurkeyLeg_QM_PickAtLeastOneBuff>Pick at least one buff for the preset.</TurkeyLeg_QM_PickAtLeastOneBuff>
+
+  <!-- ========================================================= -->
+  <!-- 09. Exclusion manager -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_Gear>Gear</TurkeyLeg_QM_Gear>
+  <TurkeyLeg_QM_Materials>Materials</TurkeyLeg_QM_Materials>
+  <TurkeyLeg_QM_Search>Search:</TurkeyLeg_QM_Search>
+  <TurkeyLeg_QM_Suggest>Suggest:</TurkeyLeg_QM_Suggest>
+  <TurkeyLeg_QM_GroupBy>Group by:</TurkeyLeg_QM_GroupBy>
+  <TurkeyLeg_QM_HeavyWeapons>Heavy weapons</TurkeyLeg_QM_HeavyWeapons>
+  <TurkeyLeg_QM_OversizedClassTag>Oversized (class/tag)</TurkeyLeg_QM_OversizedClassTag>
+  <TurkeyLeg_QM_ByMod>By Mod</TurkeyLeg_QM_ByMod>
+  <TurkeyLeg_QM_ByType>By Type</TurkeyLeg_QM_ByType>
+  <TurkeyLeg_QM_ByClassTag>By Class/Tag</TurkeyLeg_QM_ByClassTag>
+  <TurkeyLeg_QM_ByBench>By Bench</TurkeyLeg_QM_ByBench>
+  <TurkeyLeg_QM_StagingItems>Staging: items to exclude</TurkeyLeg_QM_StagingItems>
+  <TurkeyLeg_QM_StagingMaterials>Staging: materials to exclude</TurkeyLeg_QM_StagingMaterials>
+  <TurkeyLeg_QM_SelectAll>Select all</TurkeyLeg_QM_SelectAll>
+  <TurkeyLeg_QM_None>None</TurkeyLeg_QM_None>
+  <TurkeyLeg_QM_NoItemsMatchSearchFilter>No items match the current search/filter.</TurkeyLeg_QM_NoItemsMatchSearchFilter>
+  <TurkeyLeg_QM_NoMaterialsMatchSearch>No materials match the current search.</TurkeyLeg_QM_NoMaterialsMatchSearch>
+  <TurkeyLeg_QM_NotCraftable>(not craftable)</TurkeyLeg_QM_NotCraftable>
+  <TurkeyLeg_QM_NoClassTag>(no class/tag)</TurkeyLeg_QM_NoClassTag>
+  <TurkeyLeg_QM_Core>Core</TurkeyLeg_QM_Core>
+  <TurkeyLeg_QM_Metals>Metals</TurkeyLeg_QM_Metals>
+  <TurkeyLeg_QM_Wood>Wood</TurkeyLeg_QM_Wood>
+  <TurkeyLeg_QM_Leather>Leather</TurkeyLeg_QM_Leather>
+  <TurkeyLeg_QM_Fabric>Fabric</TurkeyLeg_QM_Fabric>
+  <TurkeyLeg_QM_Stony>Stony</TurkeyLeg_QM_Stony>
+  <TurkeyLeg_QM_Ingredients>Ingredients</TurkeyLeg_QM_Ingredients>
+
+  <!-- ========================================================= -->
+  <!-- 10. Options & mod settings -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_LockWindow>Lock window</TurkeyLeg_QM_LockWindow>
+  <TurkeyLeg_QM_UnlockWindow>Unlock window</TurkeyLeg_QM_UnlockWindow>
+  <TurkeyLeg_QM_ResetWindowPosition>Reset window position</TurkeyLeg_QM_ResetWindowPosition>
+  <TurkeyLeg_QM_RestoreDefaultPresets>Restore default presets</TurkeyLeg_QM_RestoreDefaultPresets>
+  <TurkeyLeg_QM_ModSettings>Mod settings...</TurkeyLeg_QM_ModSettings>
+  <TurkeyLeg_QM_Interface>Interface</TurkeyLeg_QM_Interface>
+  <TurkeyLeg_QM_UseClassicInterface>Use classic interface</TurkeyLeg_QM_UseClassicInterface>
+  <TurkeyLeg_QM_RefreshedInterfaceDescription>The refreshed interface groups the view tabs, display toggles and actions into separate areas, and moves window locking/reset into the Options menu at the top right of the Quartermaster window.</TurkeyLeg_QM_RefreshedInterfaceDescription>
+
+  <!-- ========================================================= -->
+  <!-- 11. Weapon column tooltips -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_WeaponNameTooltip>Weapon name.
+
+Click to sort by this column; click again to flip the order.</TurkeyLeg_QM_WeaponNameTooltip>
+  <TurkeyLeg_QM_BestMaterialTooltip>Best material the colony can craft it from right now.
+
+Click to sort by this column; click again to flip the order.</TurkeyLeg_QM_BestMaterialTooltip>
+  <TurkeyLeg_QM_WeaponScoreTooltip>Default ranking: DPS(A) x (1 + 0.75 x armor penetration). Accuracy-weighted damage output with a bonus for punching through armor. Accuracy is averaged over the selected score ranges; a selected range the weapon can't fire at counts as 0.
+
+Click to sort by this column; click again to flip the order.</TurkeyLeg_QM_WeaponScoreTooltip>
+  <TurkeyLeg_QM_DPSTooltip>Ranged: damage per second weighted by accuracy over the selected score ranges (DPSA). Melee: average DPS.
+
+Click to sort by this column; click again to flip the order.</TurkeyLeg_QM_DPSTooltip>
+  <TurkeyLeg_QM_APTooltip>Armor penetration.
+
+Click to sort by this column; click again to flip the order.</TurkeyLeg_QM_APTooltip>
+  <TurkeyLeg_QM_DamageTooltip>Damage per shot (ranged) or average tool damage (melee).
+
+Click to sort by this column; click again to flip the order.</TurkeyLeg_QM_DamageTooltip>
+  <TurkeyLeg_QM_RangeTooltip>Maximum range in cells (ranged only).
+
+Click to sort by this column; click again to flip the order.</TurkeyLeg_QM_RangeTooltip>
+  <TurkeyLeg_QM_AccuracyCloseTooltip>Accuracy at close range (3 cells). Grey value = the weapon can't fire at this distance (stat shown for reference; scores 0 if the range is selected). Color compares the weapons currently listed: red = worst, green = best.
+
+Click to sort by this column; click again to flip the order.</TurkeyLeg_QM_AccuracyCloseTooltip>
+  <TurkeyLeg_QM_AccuracyShortTooltip>Accuracy at short range (12 cells). Grey value = the weapon can't fire at this distance (stat shown for reference; scores 0 if the range is selected). Color compares the weapons currently listed: red = worst, green = best.
+
+Click to sort by this column; click again to flip the order.</TurkeyLeg_QM_AccuracyShortTooltip>
+  <TurkeyLeg_QM_AccuracyMediumTooltip>Accuracy at medium range (25 cells). Grey value = the weapon can't fire at this distance (stat shown for reference; scores 0 if the range is selected). Color compares the weapons currently listed: red = worst, green = best.
+
+Click to sort by this column; click again to flip the order.</TurkeyLeg_QM_AccuracyMediumTooltip>
+  <TurkeyLeg_QM_AccuracyLongTooltip>Accuracy at long range (40 cells). Grey value = the weapon can't fire at this distance (stat shown for reference; scores 0 if the range is selected). Color compares the weapons currently listed: red = worst, green = best.
+
+Click to sort by this column; click again to flip the order.</TurkeyLeg_QM_AccuracyLongTooltip>
+  <TurkeyLeg_QM_AttackCycleTooltip>Seconds per attack cycle: aim + cooldown (ranged), cooldown (melee). Lower is better.
+
+Click to sort by this column; click again to flip the order.</TurkeyLeg_QM_AttackCycleTooltip>
+  <TurkeyLeg_QM_BurstTooltip>Shots per burst (ranged only).
+
+Click to sort by this column; click again to flip the order.</TurkeyLeg_QM_BurstTooltip>
+  <TurkeyLeg_QM_MassTooltip>Mass in kg. Lower is better.
+
+Click to sort by this column; click again to flip the order.</TurkeyLeg_QM_MassTooltip>
+  <TurkeyLeg_QM_MarketValueTooltip>Market value.
+
+Click to sort by this column; click again to flip the order.</TurkeyLeg_QM_MarketValueTooltip>
+
+  <!-- ========================================================= -->
+  <!-- 12. Weapon score-range tooltips -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_IncludeCloseRangeTooltip>Include close range (3 cells) in the ranged weapon score.
+
+The score averages accuracy over the selected ranges; a weapon that can't fire at a selected range scores 0 for that range.</TurkeyLeg_QM_IncludeCloseRangeTooltip>
+  <TurkeyLeg_QM_IncludeShortRangeTooltip>Include short range (12 cells) in the ranged weapon score.
+
+The score averages accuracy over the selected ranges; a weapon that can't fire at a selected range scores 0 for that range.</TurkeyLeg_QM_IncludeShortRangeTooltip>
+  <TurkeyLeg_QM_IncludeMediumRangeTooltip>Include medium range (25 cells) in the ranged weapon score.
+
+The score averages accuracy over the selected ranges; a weapon that can't fire at a selected range scores 0 for that range.</TurkeyLeg_QM_IncludeMediumRangeTooltip>
+  <TurkeyLeg_QM_IncludeLongRangeTooltip>Include long range (40 cells) in the ranged weapon score.
+
+The score averages accuracy over the selected ranges; a weapon that can't fire at a selected range scores 0 for that range.</TurkeyLeg_QM_IncludeLongRangeTooltip>
+
+  <!-- ========================================================= -->
+  <!-- 13. Generated item / weapon tooltip fixed text -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_CraftingCost>Crafting cost:</TurkeyLeg_QM_CraftingCost>
+  <TurkeyLeg_QM_UtilityStats>Utility stats:</TurkeyLeg_QM_UtilityStats>
+  <TurkeyLeg_QM_RangedWeapon>Ranged weapon</TurkeyLeg_QM_RangedWeapon>
+  <TurkeyLeg_QM_ThrownWeapon>Thrown weapon</TurkeyLeg_QM_ThrownWeapon>
+  <TurkeyLeg_QM_MeleeWeapon>Melee weapon</TurkeyLeg_QM_MeleeWeapon>
+  <TurkeyLeg_QM_AnyMaterial>any material</TurkeyLeg_QM_AnyMaterial>
+  <TurkeyLeg_QM_MissingResearch>Missing: research not completed</TurkeyLeg_QM_MissingResearch>
+  <TurkeyLeg_QM_MissingBench>Missing: required crafting bench not built</TurkeyLeg_QM_MissingBench>
+  <TurkeyLeg_QM_MissingMaterials>Missing: not enough materials in stockpiles</TurkeyLeg_QM_MissingMaterials>
+  <TurkeyLeg_QM_AllScoreRanges>Close, Short, Medium, Long</TurkeyLeg_QM_AllScoreRanges>
+  <TurkeyLeg_QM_UnreachableRanges>(unreachable ranges count as 0)</TurkeyLeg_QM_UnreachableRanges>
+  <TurkeyLeg_QM_NoCraftableWeapons>No weapons can be crafted right now.
+Build crafting benches and complete research,
+or enable "Show unavailable" to see what's missing.</TurkeyLeg_QM_NoCraftableWeapons>
+  <TurkeyLeg_QM_Quality>Quality:</TurkeyLeg_QM_Quality>
+  <TurkeyLeg_QM_NoCraftableArmor>No armor can be crafted right now.
+Build crafting benches and complete research,
+or enable "Show unavailable" to see what's missing.</TurkeyLeg_QM_NoCraftableArmor>
+  <TurkeyLeg_QM_NoCraftableBuffItems>No craftable items with Buffs stats.
+Enable "Show unavailable" to see items you haven't unlocked yet.</TurkeyLeg_QM_NoCraftableBuffItems>
+
+  <!-- ========================================================= -->
+  <!-- 14. DLC / general grouping tags -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_Tag_Anomaly>Anomaly</TurkeyLeg_QM_Tag_Anomaly>
+  <TurkeyLeg_QM_Tag_Biotech>Biotech</TurkeyLeg_QM_Tag_Biotech>
+  <TurkeyLeg_QM_Tag_Odyssey>Odyssey</TurkeyLeg_QM_Tag_Odyssey>
+  <TurkeyLeg_QM_Tag_Royalty>Royalty</TurkeyLeg_QM_Tag_Royalty>
+  <TurkeyLeg_QM_Tag_Thrown>Thrown</TurkeyLeg_QM_Tag_Thrown>
+  <TurkeyLeg_QM_Tag_AnimalPart>Animal Part</TurkeyLeg_QM_Tag_AnimalPart>
+  <TurkeyLeg_QM_Tag_ApparelYttakin>Apparel_Yttakin</TurkeyLeg_QM_Tag_ApparelYttakin>
+  <TurkeyLeg_QM_Tag_Artifact>Artifact</TurkeyLeg_QM_Tag_Artifact>
+  <TurkeyLeg_Tag_Accessories>Accessories</TurkeyLeg_Tag_Accessories>
+  <TurkeyLeg_Tag_Other>Other</TurkeyLeg_Tag_Other>
+  <TurkeyLeg_QM_Persona>persona</TurkeyLeg_QM_Persona>
+
+  <!-- ========================================================= -->
+  <!-- 15. Weapon / apparel class tags -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_Tag_Artillery>Artillery</TurkeyLeg_QM_Tag_Artillery>
+  <TurkeyLeg_QM_Tag_ArtilleryBaseDestroyer>Artillery_BaseDestroyer</TurkeyLeg_QM_Tag_ArtilleryBaseDestroyer>
+  <TurkeyLeg_QM_Tag_AssaultRifle>AssaultRifle</TurkeyLeg_QM_Tag_AssaultRifle>
+  <TurkeyLeg_QM_Tag_Autopistol>Autopistol</TurkeyLeg_QM_Tag_Autopistol>
+  <TurkeyLeg_QM_Tag_Axe>Axe</TurkeyLeg_QM_Tag_Axe>
+  <TurkeyLeg_QM_Tag_BasicClothing>BasicClothing</TurkeyLeg_QM_Tag_BasicClothing>
+  <TurkeyLeg_QM_Tag_BeamGraserGun>BeamGraserGun</TurkeyLeg_QM_Tag_BeamGraserGun>
+  <TurkeyLeg_QM_Tag_BeltDefense>BeltDefense</TurkeyLeg_QM_Tag_BeltDefense>
+  <TurkeyLeg_QM_Tag_BeltDefensePop>BeltDefensePop</TurkeyLeg_QM_Tag_BeltDefensePop>
+  <TurkeyLeg_QM_Tag_BeltDefenseTox>BeltDefenseTox</TurkeyLeg_QM_Tag_BeltDefenseTox>
+  <TurkeyLeg_QM_Tag_BestowerHood>BestowerHood</TurkeyLeg_QM_Tag_BestowerHood>
+  <TurkeyLeg_QM_Tag_Bladelink>Bladelink</TurkeyLeg_QM_Tag_Bladelink>
+  <TurkeyLeg_QM_Tag_Cape>Cape</TurkeyLeg_QM_Tag_Cape>
+  <TurkeyLeg_QM_Tag_ChargeBlasterHeavyGun>ChargeBlasterHeavyGun</TurkeyLeg_QM_Tag_ChargeBlasterHeavyGun>
+  <TurkeyLeg_QM_Tag_Clothing>Clothing</TurkeyLeg_QM_Tag_Clothing>
+  <TurkeyLeg_QM_Tag_Drugs>Drugs</TurkeyLeg_QM_Tag_Drugs>
+  <TurkeyLeg_QM_Tag_EltexStaff>EltexStaff</TurkeyLeg_QM_Tag_EltexStaff>
+  <TurkeyLeg_QM_Tag_EmpireGrenadeDestructive>EmpireGrenadeDestructive</TurkeyLeg_QM_Tag_EmpireGrenadeDestructive>
+  <TurkeyLeg_QM_Tag_ExoticMisc>ExoticMisc</TurkeyLeg_QM_Tag_ExoticMisc>
+  <TurkeyLeg_QM_Tag_Flamethrower>Flamethrower</TurkeyLeg_QM_Tag_Flamethrower>
+  <TurkeyLeg_QM_Tag_GrenadeDestructive>GrenadeDestructive</TurkeyLeg_QM_Tag_GrenadeDestructive>
+  <TurkeyLeg_QM_Tag_GrenadeEMP>GrenadeEMP</TurkeyLeg_QM_Tag_GrenadeEMP>
+  <TurkeyLeg_QM_Tag_GrenadeFlame>GrenadeFlame</TurkeyLeg_QM_Tag_GrenadeFlame>
+  <TurkeyLeg_QM_Tag_GrenadeSmoke>GrenadeSmoke</TurkeyLeg_QM_Tag_GrenadeSmoke>
+  <TurkeyLeg_QM_Tag_GrenadeTox>GrenadeTox</TurkeyLeg_QM_Tag_GrenadeTox>
+  <TurkeyLeg_QM_Tag_Gun>Gun</TurkeyLeg_QM_Tag_Gun>
+  <TurkeyLeg_QM_Tag_GunHeavy>GunHeavy</TurkeyLeg_QM_Tag_GunHeavy>
+  <TurkeyLeg_QM_Tag_Gunlink>Gunlink</TurkeyLeg_QM_Tag_Gunlink>
+  <TurkeyLeg_QM_Tag_GunSingleUse>GunSingleUse</TurkeyLeg_QM_Tag_GunSingleUse>
+  <TurkeyLeg_QM_Tag_HeavyTox>HeavyTox</TurkeyLeg_QM_Tag_HeavyTox>
+  <TurkeyLeg_QM_Tag_HellsphereCannonGun>HellsphereCannonGun</TurkeyLeg_QM_Tag_HellsphereCannonGun>
+  <TurkeyLeg_QM_Tag_HiTechArmor>HiTechArmor</TurkeyLeg_QM_Tag_HiTechArmor>
+  <TurkeyLeg_QM_Tag_HoraxArmor>HoraxArmor</TurkeyLeg_QM_Tag_HoraxArmor>
+  <TurkeyLeg_QM_Tag_Horaxian>Horaxian</TurkeyLeg_QM_Tag_Horaxian>
+  <TurkeyLeg_QM_Tag_HoraxianCeremonial>HoraxianCeremonial</TurkeyLeg_QM_Tag_HoraxianCeremonial>
+  <TurkeyLeg_QM_Tag_HoraxWeapon>HoraxWeapon</TurkeyLeg_QM_Tag_HoraxWeapon>
+  <TurkeyLeg_QM_Tag_IndustrialAdvanced>IndustrialAdvanced</TurkeyLeg_QM_Tag_IndustrialAdvanced>
+  <TurkeyLeg_QM_Tag_IndustrialBasic>IndustrialBasic</TurkeyLeg_QM_Tag_IndustrialBasic>
+  <TurkeyLeg_QM_Tag_IndustrialGunAdvanced>IndustrialGunAdvanced</TurkeyLeg_QM_Tag_IndustrialGunAdvanced>
+  <TurkeyLeg_QM_Tag_IndustrialMilitaryAdvanced>IndustrialMilitaryAdvanced</TurkeyLeg_QM_Tag_IndustrialMilitaryAdvanced>
+  <TurkeyLeg_QM_Tag_IndustrialMilitaryBasic>IndustrialMilitaryBasic</TurkeyLeg_QM_Tag_IndustrialMilitaryBasic>
+  <TurkeyLeg_QM_Tag_InfernoCannonGun>InfernoCannonGun</TurkeyLeg_QM_Tag_InfernoCannonGun>
+  <TurkeyLeg_QM_Tag_LongShots>LongShots</TurkeyLeg_QM_Tag_LongShots>
+  <TurkeyLeg_QM_Tag_LongSword>LongSword</TurkeyLeg_QM_Tag_LongSword>
+  <TurkeyLeg_QM_Tag_Mechlord>Mechlord</TurkeyLeg_QM_Tag_Mechlord>
+  <TurkeyLeg_QM_Tag_MechonoidGunBreach>MechonoidGunBreach</TurkeyLeg_QM_Tag_MechonoidGunBreach>
+  <TurkeyLeg_QM_Tag_MechonoidGunHeavy>MechonoidGunHeavy</TurkeyLeg_QM_Tag_MechonoidGunHeavy>
+  <TurkeyLeg_QM_Tag_MechonoidGunLongRange>MechonoidGunLongRange</TurkeyLeg_QM_Tag_MechonoidGunLongRange>
+  <TurkeyLeg_QM_Tag_MechonoidGunMedium>MechonoidGunMedium</TurkeyLeg_QM_Tag_MechonoidGunMedium>
+  <TurkeyLeg_QM_Tag_MechonoidGunMiniFlameblaster>MechonoidGunMiniFlameblaster</TurkeyLeg_QM_Tag_MechonoidGunMiniFlameblaster>
+  <TurkeyLeg_QM_Tag_MechonoidGunNeedleLauncher>MechonoidGunNeedleLauncher</TurkeyLeg_QM_Tag_MechonoidGunNeedleLauncher>
+  <TurkeyLeg_QM_Tag_MechonoidGunShortRange>MechonoidGunShortRange</TurkeyLeg_QM_Tag_MechonoidGunShortRange>
+  <TurkeyLeg_QM_Tag_MechonoidGunSlugthrower>MechonoidGunSlugthrower</TurkeyLeg_QM_Tag_MechonoidGunSlugthrower>
+  <TurkeyLeg_QM_Tag_MechonoidGunSpiner>MechonoidGunSpiner</TurkeyLeg_QM_Tag_MechonoidGunSpiner>
+  <TurkeyLeg_QM_Tag_MechonoidGunToxicNeedle>MechonoidGunToxicNeedle</TurkeyLeg_QM_Tag_MechonoidGunToxicNeedle>
+  <TurkeyLeg_QM_Tag_MedievalMeleeAdvanced>MedievalMeleeAdvanced</TurkeyLeg_QM_Tag_MedievalMeleeAdvanced>
+  <TurkeyLeg_QM_Tag_MedievalMeleeBasic>MedievalMeleeBasic</TurkeyLeg_QM_Tag_MedievalMeleeBasic>
+  <TurkeyLeg_QM_Tag_MedievalMeleeDecent>MedievalMeleeDecent</TurkeyLeg_QM_Tag_MedievalMeleeDecent>
+  <TurkeyLeg_QM_Tag_MedievalMilitary>MedievalMilitary</TurkeyLeg_QM_Tag_MedievalMilitary>
+  <TurkeyLeg_QM_Tag_MeleeBlunt>MeleeBlunt</TurkeyLeg_QM_Tag_MeleeBlunt>
+  <TurkeyLeg_QM_Tag_MeleePiercer>MeleePiercer</TurkeyLeg_QM_Tag_MeleePiercer>
+  <TurkeyLeg_QM_Tag_Minigun>Minigun</TurkeyLeg_QM_Tag_Minigun>
+  <TurkeyLeg_QM_Tag_Neolithic>Neolithic</TurkeyLeg_QM_Tag_Neolithic>
+  <TurkeyLeg_QM_Tag_NeolithicMeleeAdvanced>NeolithicMeleeAdvanced</TurkeyLeg_QM_Tag_NeolithicMeleeAdvanced>
+  <TurkeyLeg_QM_Tag_NeolithicMeleeBasic>NeolithicMeleeBasic</TurkeyLeg_QM_Tag_NeolithicMeleeBasic>
+  <TurkeyLeg_QM_Tag_NeolithicMeleeDecent>NeolithicMeleeDecent</TurkeyLeg_QM_Tag_NeolithicMeleeDecent>
+  <TurkeyLeg_QM_Tag_NeolithicMeleeDestructive>NeolithicMeleeDestructive</TurkeyLeg_QM_Tag_NeolithicMeleeDestructive>
+  <TurkeyLeg_QM_Tag_NeolithicRangedBasic>NeolithicRangedBasic</TurkeyLeg_QM_Tag_NeolithicRangedBasic>
+  <TurkeyLeg_QM_Tag_NeolithicRangedChief>NeolithicRangedChief</TurkeyLeg_QM_Tag_NeolithicRangedChief>
+  <TurkeyLeg_QM_Tag_NeolithicRangedDecent>NeolithicRangedDecent</TurkeyLeg_QM_Tag_NeolithicRangedDecent>
+  <TurkeyLeg_QM_Tag_NeolithicRangedFlame>NeolithicRangedFlame</TurkeyLeg_QM_Tag_NeolithicRangedFlame>
+  <TurkeyLeg_QM_Tag_NeolithicRangedHeavy>NeolithicRangedHeavy</TurkeyLeg_QM_Tag_NeolithicRangedHeavy>
+  <TurkeyLeg_QM_Tag_NerveSpiker>NerveSpiker</TurkeyLeg_QM_Tag_NerveSpiker>
+  <TurkeyLeg_QM_Tag_NoRelic>NoRelic</TurkeyLeg_QM_Tag_NoRelic>
+  <TurkeyLeg_QM_Tag_PackJump>PackJump</TurkeyLeg_QM_Tag_PackJump>
+  <TurkeyLeg_QM_Tag_PrestigeCombatGear>PrestigeCombatGear</TurkeyLeg_QM_Tag_PrestigeCombatGear>
+  <TurkeyLeg_QM_Tag_Psychic>Psychic</TurkeyLeg_QM_Tag_Psychic>
+  <TurkeyLeg_QM_Tag_PsychicApparel>PsychicApparel</TurkeyLeg_QM_Tag_PsychicApparel>
+  <TurkeyLeg_QM_Tag_PsychicWeapon>PsychicWeapon</TurkeyLeg_QM_Tag_PsychicWeapon>
+  <TurkeyLeg_QM_Tag_PumpShotgun>PumpShotgun</TurkeyLeg_QM_Tag_PumpShotgun>
+  <TurkeyLeg_QM_Tag_RangedHeavy>RangedHeavy</TurkeyLeg_QM_Tag_RangedHeavy>
+  <TurkeyLeg_QM_Tag_RangedLight>RangedLight</TurkeyLeg_QM_Tag_RangedLight>
+  <TurkeyLeg_QM_Tag_Revolver>Revolver</TurkeyLeg_QM_Tag_Revolver>
+  <TurkeyLeg_QM_Tag_Robe>Robe</TurkeyLeg_QM_Tag_Robe>
+  <TurkeyLeg_QM_Tag_Royal>Royal</TurkeyLeg_QM_Tag_Royal>
+  <TurkeyLeg_QM_Tag_RoyalRobe>RoyalRobe</TurkeyLeg_QM_Tag_RoyalRobe>
+  <TurkeyLeg_QM_Tag_RoyalTier2>RoyalTier2</TurkeyLeg_QM_Tag_RoyalTier2>
+  <TurkeyLeg_QM_Tag_RoyalTier3>RoyalTier3</TurkeyLeg_QM_Tag_RoyalTier3>
+  <TurkeyLeg_QM_Tag_RoyalTier4>RoyalTier4</TurkeyLeg_QM_Tag_RoyalTier4>
+  <TurkeyLeg_QM_Tag_RoyalTier5>RoyalTier5</TurkeyLeg_QM_Tag_RoyalTier5>
+  <TurkeyLeg_QM_Tag_RoyalTier6>RoyalTier6</TurkeyLeg_QM_Tag_RoyalTier6>
+  <TurkeyLeg_QM_Tag_RoyalTier7>RoyalTier7</TurkeyLeg_QM_Tag_RoyalTier7>
+  <TurkeyLeg_QM_Tag_SentryDroneGunShortRange>SentryDroneGunShortRange</TurkeyLeg_QM_Tag_SentryDroneGunShortRange>
+  <TurkeyLeg_QM_Tag_ShortShots>ShortShots</TurkeyLeg_QM_Tag_ShortShots>
+  <TurkeyLeg_QM_Tag_SimpleGun>SimpleGun</TurkeyLeg_QM_Tag_SimpleGun>
+  <TurkeyLeg_QM_Tag_SniperRifle>SniperRifle</TurkeyLeg_QM_Tag_SniperRifle>
+  <TurkeyLeg_QM_Tag_SpacerGun>SpacerGun</TurkeyLeg_QM_Tag_SpacerGun>
+  <TurkeyLeg_QM_Tag_SpacerMilitary>SpacerMilitary</TurkeyLeg_QM_Tag_SpacerMilitary>
+  <TurkeyLeg_QM_Tag_Spear>Spear</TurkeyLeg_QM_Tag_Spear>
+  <TurkeyLeg_QM_Tag_TurretGun>TurretGun</TurkeyLeg_QM_Tag_TurretGun>
+  <TurkeyLeg_QM_Tag_Ultratech>Ultratech</TurkeyLeg_QM_Tag_Ultratech>
+  <TurkeyLeg_QM_Tag_UltratechMelee>UltratechMelee</TurkeyLeg_QM_Tag_UltratechMelee>
+  <TurkeyLeg_QM_Tag_UtilitySpecial>UtilitySpecial</TurkeyLeg_QM_Tag_UtilitySpecial>
+  <TurkeyLeg_QM_Tag_Vacsuit>Vacsuit</TurkeyLeg_QM_Tag_Vacsuit>
+  <TurkeyLeg_QM_Tag_WeaponBeamRepeater>WeaponBeamRepeater</TurkeyLeg_QM_Tag_WeaponBeamRepeater>
+  <TurkeyLeg_QM_Tag_WeaponRangedv>WeaponRanged</TurkeyLeg_QM_Tag_WeaponRangedv>
+  <TurkeyLeg_QM_Tag_Western>Western</TurkeyLeg_QM_Tag_Western>
+
+  <!-- ========================================================= -->
+  <!-- 16. Pin item picker & confirmations -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_PinPickerDescription>Checked items are always included in the generated set (shown as "enforced"). The optimizer builds the rest of the set around them.</TurkeyLeg_QM_PinPickerDescription>
+  <TurkeyLeg_QM_PinnedOnly>Pinned only</TurkeyLeg_QM_PinnedOnly>
+  <TurkeyLeg_QM_Done>Done</TurkeyLeg_QM_Done>
+  <TurkeyLeg_QM_NoItemsMatchCurrentFilter>No items match the current filter.</TurkeyLeg_QM_NoItemsMatchCurrentFilter>
+  <TurkeyLeg_QM_enforced>enforced</TurkeyLeg_QM_enforced>
+  <TurkeyLeg_QM_RestoreFromExclusions>You can restore it anytime from the Exclusions menu.</TurkeyLeg_QM_RestoreFromExclusions>
+
+  <!-- ========================================================= -->
+  <!-- 17. Generated item / weapon tooltip text -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_HideFromRecommendations>Hide {0} from Quartermaster's recommendations?</TurkeyLeg_QM_HideFromRecommendations>
+  <TurkeyLeg_QM_TooltipQuality>Quality: {0}</TurkeyLeg_QM_TooltipQuality>
+  <TurkeyLeg_QM_IdenticalCopies>You have {0} identical copies (same material and quality); Focus jumps to the healthiest one.</TurkeyLeg_QM_IdenticalCopies>
+  <TurkeyLeg_QM_TooltipScore>Score: {0} (DPS x (1 + 0.75 x AP))</TurkeyLeg_QM_TooltipScore>
+  <TurkeyLeg_QM_TooltipDPSA>DPSA (accuracy-weighted): {0}</TurkeyLeg_QM_TooltipDPSA>
+  <TurkeyLeg_QM_TooltipAverageDPS>Average DPS: {0}</TurkeyLeg_QM_TooltipAverageDPS>
+  <TurkeyLeg_QM_TooltipAverageToolDamage>Average tool damage: {0}</TurkeyLeg_QM_TooltipAverageToolDamage>
+  <TurkeyLeg_QM_TooltipScoreRanges>Score ranges: Close, Short, Medium, Long (unreachable ranges count as 0)</TurkeyLeg_QM_TooltipScoreRanges>
+  <TurkeyLeg_QM_TooltipDamagePerShot>Damage per shot: {0}</TurkeyLeg_QM_TooltipDamagePerShot>
+  <TurkeyLeg_QM_TooltipArmorPenetration>Armor penetration: {0}</TurkeyLeg_QM_TooltipArmorPenetration>
+  <TurkeyLeg_QM_TooltipRange>Range: {0} cells</TurkeyLeg_QM_TooltipRange>
+  <TurkeyLeg_QM_TooltipAccuracyRanges>Accuracy C/S/M/L: {0}</TurkeyLeg_QM_TooltipAccuracyRanges>
+  <TurkeyLeg_QM_TooltipAimCooldown>Aim time: {0}s   Cooldown: {1}s</TurkeyLeg_QM_TooltipAimCooldown>
+  <TurkeyLeg_QM_TooltipBurst>Burst: {0} shots</TurkeyLeg_QM_TooltipBurst>
+  <TurkeyLeg_QM_TooltipAverageCooldown>Average cooldown: {0}s</TurkeyLeg_QM_TooltipAverageCooldown>
+  <TurkeyLeg_QM_TooltipMass>Mass: {0} kg</TurkeyLeg_QM_TooltipMass>
+  <TurkeyLeg_QM_TooltipMarketValue>Market value: {0}</TurkeyLeg_QM_TooltipMarketValue>
+  <TurkeyLeg_QM_TooltipAnyMaterial>any material x{0}</TurkeyLeg_QM_TooltipAnyMaterial>
+
+  <!-- ========================================================= -->
+  <!-- 18. Dynamic UI text -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_MinCraftable>Min craftable: {0}</TurkeyLeg_QM_MinCraftable>
+  <TurkeyLeg_QM_MaxPiecesAll>Max pieces: {0} (all)</TurkeyLeg_QM_MaxPiecesAll>
+  <TurkeyLeg_QM_MaxPieces>Max pieces: {0}</TurkeyLeg_QM_MaxPieces>
+  <TurkeyLeg_QM_BuffTypes>{0} buff types</TurkeyLeg_QM_BuffTypes>
+  <TurkeyLeg_QM_PinnedCount>{0} pinned</TurkeyLeg_QM_PinnedCount>
+  <TurkeyLeg_QM_RenamePresetTooltip>Rename "{0}", change its buffs, or delete it.</TurkeyLeg_QM_RenamePresetTooltip>
+  <TurkeyLeg_QM_PickedCount>{0} picked</TurkeyLeg_QM_PickedCount>
+  <TurkeyLeg_QM_AddExclusions>Add exclusions ({0})</TurkeyLeg_QM_AddExclusions>
+  <TurkeyLeg_QM_RemoveExclusions>Remove exclusions ({0})</TurkeyLeg_QM_RemoveExclusions>
+  <TurkeyLeg_QM_ClearAll>Clear all ({0})</TurkeyLeg_QM_ClearAll>
+  <TurkeyLeg_QM_ExclusionsCount>Exclusions ({0})</TurkeyLeg_QM_ExclusionsCount>
+  <TurkeyLeg_QM_ExcludedItems>Excluded: {0} item(s)</TurkeyLeg_QM_ExcludedItems>
+  <TurkeyLeg_QM_ExcludedMaterials>Excluded: {0} material(s)</TurkeyLeg_QM_ExcludedMaterials>
+  <TurkeyLeg_QM_DPSAValue>DPSA {0}</TurkeyLeg_QM_DPSAValue>
+  <TurkeyLeg_QM_DPSValue>DPS {0}</TurkeyLeg_QM_DPSValue>
+  <TurkeyLeg_QM_SharpValue>Sharp {0}%</TurkeyLeg_QM_SharpValue>
+  <TurkeyLeg_QM_SectionCount>{0} ({1})</TurkeyLeg_QM_SectionCount>
+  <TurkeyLeg_QM_PinItemsTitle>Pin items: {0}</TurkeyLeg_QM_PinItemsTitle>
+  <TurkeyLeg_QM_NeedsRequirements>needs {0}</TurkeyLeg_QM_NeedsRequirements>
+  <TurkeyLeg_QM_ClearCategoryPins>Clear {0} pins</TurkeyLeg_QM_ClearCategoryPins>
+  <TurkeyLeg_QM_ItemHiddenMessage>{0} hidden from Quartermaster. Restore it from the Exclusions menu.</TurkeyLeg_QM_ItemHiddenMessage>
+  <TurkeyLeg_QM_PolicyCreatedMessage>Created apparel policy "{0}" allowing {1} item(s). Assign it from a colonist's Apparel tab.</TurkeyLeg_QM_PolicyCreatedMessage>
+
+  <!-- ========================================================= -->
+  <!-- 21. Body-part / apparel-layer tokens -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_Slot_Body>Body</TurkeyLeg_QM_Slot_Body>
+  <TurkeyLeg_QM_Slot_Head>Head</TurkeyLeg_QM_Slot_Head>
+  <TurkeyLeg_QM_Slot_Legs>Legs</TurkeyLeg_QM_Slot_Legs>
+  <TurkeyLeg_QM_Slot_Arms>Arms</TurkeyLeg_QM_Slot_Arms>
+  <TurkeyLeg_QM_Slot_Hands>Hands</TurkeyLeg_QM_Slot_Hands>
+  <TurkeyLeg_QM_Slot_Feet>Feet</TurkeyLeg_QM_Slot_Feet>
+  <TurkeyLeg_QM_Slot_Neck>Neck</TurkeyLeg_QM_Slot_Neck>
+  <TurkeyLeg_QM_Slot_Shoulders>Shoulders</TurkeyLeg_QM_Slot_Shoulders>
+  <TurkeyLeg_QM_Slot_Eyes>Eyes</TurkeyLeg_QM_Slot_Eyes>
+  <TurkeyLeg_QM_Slot_Ears>Ears</TurkeyLeg_QM_Slot_Ears>
+  <TurkeyLeg_QM_Slot_Mouth>Mouth</TurkeyLeg_QM_Slot_Mouth>
+  <TurkeyLeg_QM_Slot_Face>Face</TurkeyLeg_QM_Slot_Face>
+  <TurkeyLeg_QM_Layer_Skin>Skin</TurkeyLeg_QM_Layer_Skin>
+  <TurkeyLeg_QM_Layer_Middle>Middle</TurkeyLeg_QM_Layer_Middle>
+  <TurkeyLeg_QM_Layer_Outer>Outer</TurkeyLeg_QM_Layer_Outer>
+  <TurkeyLeg_QM_Layer_Shell>Shell</TurkeyLeg_QM_Layer_Shell>
+  <TurkeyLeg_QM_Layer_Overhead>Overhead</TurkeyLeg_QM_Layer_Overhead>
+  <TurkeyLeg_QM_Layer_Belt>Belt</TurkeyLeg_QM_Layer_Belt>
+
+  <!-- ========================================================= -->
+  <!-- 22. Requirement tokens -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_Requirement_Research>research</TurkeyLeg_QM_Requirement_Research>
+  <TurkeyLeg_QM_Requirement_Bench>bench</TurkeyLeg_QM_Requirement_Bench>
+  <TurkeyLeg_QM_Requirement_Materials>materials</TurkeyLeg_QM_Requirement_Materials>
+
+</LanguageData>

@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ========================================================= -->
+  <!-- 01. Main window -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_Quartermaster>Quartermaster 军需官</TurkeyLeg_QM_Quartermaster>
+  <TurkeyLeg_QM_Armor>护甲</TurkeyLeg_QM_Armor>
+  <TurkeyLeg_QM_Weapons>武器</TurkeyLeg_QM_Weapons>
+  <TurkeyLeg_QM_Buffs>加成</TurkeyLeg_QM_Buffs>
+  <TurkeyLeg_QM_Options>选项</TurkeyLeg_QM_Options>
+  <TurkeyLeg_QM_Exclusions>排除项</TurkeyLeg_QM_Exclusions>
+  <TurkeyLeg_QM_Refresh>刷新</TurkeyLeg_QM_Refresh>
+  <TurkeyLeg_QM_CreatePolicy>创建着装策略</TurkeyLeg_QM_CreatePolicy>
+  <TurkeyLeg_QM_EditPreset>编辑预设</TurkeyLeg_QM_EditPreset>
+  <TurkeyLeg_QM_ShowUnavailable>显示不可用物品</TurkeyLeg_QM_ShowUnavailable>
+  <TurkeyLeg_QM_BestPossible>最佳可能方案</TurkeyLeg_QM_BestPossible>
+  <TurkeyLeg_QM_ShowCrafted>显示已有装备</TurkeyLeg_QM_ShowCrafted>
+  <TurkeyLeg_QM_MaxArmor>护甲上限：</TurkeyLeg_QM_MaxArmor>
+
+  <!-- ========================================================= -->
+  <!-- 02. Presets -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_Standard>标准</TurkeyLeg_QM_Standard>
+  <TurkeyLeg_QM_MeleeHeavy>重装近战</TurkeyLeg_QM_MeleeHeavy>
+  <TurkeyLeg_QM_MeleeAgile>灵巧近战</TurkeyLeg_QM_MeleeAgile>
+  <TurkeyLeg_QM_RangedHeavy>重装远程</TurkeyLeg_QM_RangedHeavy>
+  <TurkeyLeg_QM_RangedAgile>灵巧远程</TurkeyLeg_QM_RangedAgile>
+  <TurkeyLeg_QM_Heat>隔热</TurkeyLeg_QM_Heat>
+  <TurkeyLeg_QM_Cold>保暖</TurkeyLeg_QM_Cold>
+  <TurkeyLeg_QM_AddCustom>＋自定义</TurkeyLeg_QM_AddCustom>
+  <TurkeyLeg_QM_Bonuses>加成</TurkeyLeg_QM_Bonuses>
+
+  <!-- ========================================================= -->
+  <!-- 03. Armor table -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_HeaderArmor>护甲</TurkeyLeg_QM_HeaderArmor>
+  <TurkeyLeg_QM_HeaderSlot>栏位</TurkeyLeg_QM_HeaderSlot>
+  <TurkeyLeg_QM_HeaderMaterial>材料</TurkeyLeg_QM_HeaderMaterial>
+  <TurkeyLeg_QM_HeaderSharp>锐器</TurkeyLeg_QM_HeaderSharp>
+  <TurkeyLeg_QM_HeaderBlunt>钝击</TurkeyLeg_QM_HeaderBlunt>
+  <TurkeyLeg_QM_HeaderHeat>热能</TurkeyLeg_QM_HeaderHeat>
+  <TurkeyLeg_QM_HeaderStatus>状态</TurkeyLeg_QM_HeaderStatus>
+  <TurkeyLeg_QM_Head>头部</TurkeyLeg_QM_Head>
+  <TurkeyLeg_QM_Body>躯干</TurkeyLeg_QM_Body>
+  <TurkeyLeg_QM_Legs>腿部</TurkeyLeg_QM_Legs>
+  <TurkeyLeg_QM_Accessories>配件</TurkeyLeg_QM_Accessories>
+  <TurkeyLeg_QM_OnTheMap>地图现有装备</TurkeyLeg_QM_OnTheMap>
+  <TurkeyLeg_QM_SetItem>＋固定物品</TurkeyLeg_QM_SetItem>
+  <TurkeyLeg_QM_RefreshList>刷新列表</TurkeyLeg_QM_RefreshList>
+  <TurkeyLeg_QM_IncludeSelectedGear>计入所选殖民者装备</TurkeyLeg_QM_IncludeSelectedGear>
+  <TurkeyLeg_QM_ShowTainted>显示沾污装备</TurkeyLeg_QM_ShowTainted>
+  <TurkeyLeg_QM_Focus>定位</TurkeyLeg_QM_Focus>
+  <TurkeyLeg_QM_LegsNormal>腿部</TurkeyLeg_QM_LegsNormal>
+  <TurkeyLeg_QM_BodyNormal>躯干</TurkeyLeg_QM_BodyNormal>
+  <TurkeyLeg_QM_HeadNormal>头部</TurkeyLeg_QM_HeadNormal>
+
+  <!-- ========================================================= -->
+  <!-- 04. Armor summary -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_ArmorPerBodyPart>各身体部位护甲</TurkeyLeg_QM_ArmorPerBodyPart>
+  <TurkeyLeg_QM_CombinedSetStats>整套装备属性</TurkeyLeg_QM_CombinedSetStats>
+  <TurkeyLeg_QM_Torso>躯干</TurkeyLeg_QM_Torso>
+  <TurkeyLeg_QM_Arms>手臂</TurkeyLeg_QM_Arms>
+  <TurkeyLeg_QM_Utility>实用</TurkeyLeg_QM_Utility>
+  <TurkeyLeg_QM_Combat>战斗</TurkeyLeg_QM_Combat>
+  <TurkeyLeg_QM_Social>社交</TurkeyLeg_QM_Social>
+  <TurkeyLeg_QM_Crafting>制作</TurkeyLeg_QM_Crafting>
+  <TurkeyLeg_QM_Nature>自然</TurkeyLeg_QM_Nature>
+  <TurkeyLeg_QM_Knowledge>知识</TurkeyLeg_QM_Knowledge>
+
+  <!-- ========================================================= -->
+  <!-- 05. Weapons -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_Weapon>武器</TurkeyLeg_QM_Weapon>
+  <TurkeyLeg_QM_Score>评分</TurkeyLeg_QM_Score>
+  <TurkeyLeg_QM_DPS>DPS</TurkeyLeg_QM_DPS>
+  <TurkeyLeg_QM_AP>AP</TurkeyLeg_QM_AP>
+  <TurkeyLeg_QM_DMG>伤害</TurkeyLeg_QM_DMG>
+  <TurkeyLeg_QM_RNG>射程</TurkeyLeg_QM_RNG>
+  <TurkeyLeg_QM_AccuracyCloseShort>近</TurkeyLeg_QM_AccuracyCloseShort>
+  <TurkeyLeg_QM_AccuracyShortShort>短</TurkeyLeg_QM_AccuracyShortShort>
+  <TurkeyLeg_QM_AccuracyMediumShort>中</TurkeyLeg_QM_AccuracyMediumShort>
+  <TurkeyLeg_QM_AccuracyLongShort>远</TurkeyLeg_QM_AccuracyLongShort>
+  <TurkeyLeg_QM_Time>周期</TurkeyLeg_QM_Time>
+  <TurkeyLeg_QM_Burst>连发</TurkeyLeg_QM_Burst>
+  <TurkeyLeg_QM_Mass>质量</TurkeyLeg_QM_Mass>
+  <TurkeyLeg_QM_Value>价值</TurkeyLeg_QM_Value>
+  <TurkeyLeg_QM_MeleeWeapons>近战武器</TurkeyLeg_QM_MeleeWeapons>
+  <TurkeyLeg_QM_RangedWeapons>远程武器</TurkeyLeg_QM_RangedWeapons>
+  <TurkeyLeg_QM_ThrowingWeapons>投掷武器</TurkeyLeg_QM_ThrowingWeapons>
+  <TurkeyLeg_QM_Grenades>手榴弹</TurkeyLeg_QM_Grenades>
+  <TurkeyLeg_QM_Launchers>发射器</TurkeyLeg_QM_Launchers>
+  <TurkeyLeg_QM_Types>类型：</TurkeyLeg_QM_Types>
+  <TurkeyLeg_QM_Melee>近战</TurkeyLeg_QM_Melee>
+  <TurkeyLeg_QM_Ranged>远程</TurkeyLeg_QM_Ranged>
+  <TurkeyLeg_QM_Throwing>投掷</TurkeyLeg_QM_Throwing>
+  <TurkeyLeg_QM_GrenadesNormal>手榴弹</TurkeyLeg_QM_GrenadesNormal>
+  <TurkeyLeg_QM_LaunchersNormal>发射器</TurkeyLeg_QM_LaunchersNormal>
+  <TurkeyLeg_QM_ScoreAt>评分距离：</TurkeyLeg_QM_ScoreAt>
+  <TurkeyLeg_QM_Close>贴身</TurkeyLeg_QM_Close>
+  <TurkeyLeg_QM_Short>短程</TurkeyLeg_QM_Short>
+  <TurkeyLeg_QM_Medium>中程</TurkeyLeg_QM_Medium>
+  <TurkeyLeg_QM_Long>远程</TurkeyLeg_QM_Long>
+
+  <!-- ========================================================= -->
+  <!-- 06. Buffs -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_Item>物品</TurkeyLeg_QM_Item>
+  <TurkeyLeg_QM_Bonus>加成</TurkeyLeg_QM_Bonus>
+  <TurkeyLeg_QM_Filter>筛选：</TurkeyLeg_QM_Filter>
+  <TurkeyLeg_QM_SearchBuffsPlaceholder>搜索加成：负重、研究、工作……</TurkeyLeg_QM_SearchBuffsPlaceholder>
+
+  <!-- ========================================================= -->
+  <!-- 07. Main UI tooltips -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_BestPossibleTooltip>显示在材料充足时，你现有工作台能制作出的最佳套装。会忽略当前库存。</TurkeyLeg_QM_BestPossibleTooltip>
+  <TurkeyLeg_QM_ArmorCapTooltip>优化器认为各身体部位“护甲足够”的百分比（默认 200%）。超过该值后，该部位额外护甲不再计分，因此会优先选择功能性装备。RimWorld 的有效护甲上限约为 200%。</TurkeyLeg_QM_ArmorCapTooltip>
+  <TurkeyLeg_QM_ShowCraftedTooltip>显示你已经拥有的装备，包括地图上的物品和殖民者当前穿戴的装备，以便与可制作装备进行比较。护甲页仍会保留“地图现有装备”区域；武器和加成页则会把已有装备混入排名，并标记为已有、已装备或已穿戴。</TurkeyLeg_QM_ShowCraftedTooltip>
+  <TurkeyLeg_QM_CreateCustomPresetTooltip>创建一个自定义预设，并针对你选择的加成进行优化（例如工作速度＋建造，或研究＋工作速度）。创建后会作为独立标签页显示，并使用相同的护甲／加成权重滑块。</TurkeyLeg_QM_CreateCustomPresetTooltip>
+  <TurkeyLeg_QM_IncludeSelectedGearTooltip>从地图上挑选最佳套装时，同时考虑所选殖民者当前穿戴的服装（不包括武器）。切换此项或点击“刷新列表”时会记录当前装备；重新选择殖民者后请刷新以更新。</TurkeyLeg_QM_IncludeSelectedGearTooltip>
+  <TurkeyLeg_QM_MaxPiecesTooltip>限制生成套装最多使用多少件服装。优化器会始终优先选择价值最高的装备，因此较低的上限可以生成更精简、但效果接近完整套装的组合。20 实际上等同于不限制。</TurkeyLeg_QM_MaxPiecesTooltip>
+  <TurkeyLeg_QM_RefreshTooltip>重新扫描地图、研究、工作台和库存材料，并重新生成所有推荐结果。</TurkeyLeg_QM_RefreshTooltip>
+  <TurkeyLeg_QM_BlendTooltip>调整套装在纯护甲防护（左侧）与当前预设加成属性（右侧）之间的权重。</TurkeyLeg_QM_BlendTooltip>
+  <TurkeyLeg_QM_ShowUnavailableTooltip>列出游戏中所有可制作物品，并用红色标明每项仍缺少的研究、工作台或材料。</TurkeyLeg_QM_ShowUnavailableTooltip>
+  <TurkeyLeg_QM_MinCraftableTooltip>只计算你的库存至少能够制作指定次数的装备（任意允许的材料均可）。为整个殖民地配装时可以提高此值：只能制作一次的装备无法满足十名殖民者。设为 1 表示只要至少能制作一次就显示。</TurkeyLeg_QM_MinCraftableTooltip>
+  <TurkeyLeg_QM_ExclusionsTooltip>隐藏不希望出现在推荐中的物品、整个 Mod、武器类别或工作台。</TurkeyLeg_QM_ExclusionsTooltip>
+  <TurkeyLeg_QM_OptionsTooltip>窗口选项：锁定或解锁窗口拖动和缩放、重置窗口位置，或打开 Mod 设置（包括经典界面切换）。</TurkeyLeg_QM_OptionsTooltip>
+  <TurkeyLeg_QM_ShowTaintedTooltip>在列表中包含尸体沾污的服装（会标记为沾污）。殖民者穿着沾污服装会受到心情惩罚。</TurkeyLeg_QM_ShowTaintedTooltip>
+  <TurkeyLeg_QM_HideItemTooltip>从推荐中隐藏此物品（会要求确认；按住 Shift 点击可跳过确认）。
+可通过“排除项”按钮管理隐藏物品。</TurkeyLeg_QM_HideItemTooltip>
+  <TurkeyLeg_QM_PinItemsTooltip>将指定物品固定到此分类。固定物品会始终加入生成的套装（标记为“强制固定”），其余装备会围绕这些物品进行搭配。</TurkeyLeg_QM_PinItemsTooltip>
+  <TurkeyLeg_QM_CreatePolicyTooltip>创建一个 RimWorld 着装策略，只允许穿戴上方套装中的服装（包括固定物品）。策略会按照当前标签页命名，并添加编号避免重名。可在殖民者的“服装”标签页中分配。</TurkeyLeg_QM_CreatePolicyTooltip>
+  <TurkeyLeg_QM_FocusTooltip>跳转并选中地图上的此物品。</TurkeyLeg_QM_FocusTooltip>
+  <TurkeyLeg_QM_RefreshListTooltip>重新扫描地图上适合这套装备的物品。装备物品时列表会保持当前位置，避免丢失浏览进度；点击此按钮会根据地图上剩余物品重新评估。</TurkeyLeg_QM_RefreshListTooltip>
+  <TurkeyLeg_QM_ShowMeleeTooltip>显示或隐藏武器列表中的近战武器区域。</TurkeyLeg_QM_ShowMeleeTooltip>
+  <TurkeyLeg_QM_ShowRangedTooltip>显示或隐藏武器列表中的远程武器区域。</TurkeyLeg_QM_ShowRangedTooltip>
+  <TurkeyLeg_QM_ShowThrowingTooltip>显示或隐藏武器列表中的投掷武器区域。</TurkeyLeg_QM_ShowThrowingTooltip>
+  <TurkeyLeg_QM_ShowGrenadesTooltip>显示或隐藏武器列表中的手榴弹区域。</TurkeyLeg_QM_ShowGrenadesTooltip>
+  <TurkeyLeg_QM_ShowLaunchersTooltip>显示或隐藏武器列表中的发射器区域。</TurkeyLeg_QM_ShowLaunchersTooltip>
+  <TurkeyLeg_QM_CollapseBuffTooltip>点击折叠此加成分类。</TurkeyLeg_QM_CollapseBuffTooltip>
+  <TurkeyLeg_QM_ExpandBuffTooltip>点击展开此加成分类。</TurkeyLeg_QM_ExpandBuffTooltip>
+
+  <!-- ========================================================= -->
+  <!-- 08. Custom preset dialog -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_Cancel>取消</TurkeyLeg_QM_Cancel>
+  <TurkeyLeg_QM_Save>保存</TurkeyLeg_QM_Save>
+  <TurkeyLeg_QM_SelectPresetToEdit>请选择要编辑的预设标签页（“标准”预设不可编辑）。</TurkeyLeg_QM_SelectPresetToEdit>
+  <TurkeyLeg_QM_NewCustomPreset>新建自定义预设</TurkeyLeg_QM_NewCustomPreset>
+  <TurkeyLeg_QM_CustomPresetDescription>选择此套装要重点追求的加成（例如工作速度＋建造，或研究＋工作速度）。该预设会获得独立标签页，其滑块用于调整护甲与这些加成之间的权重。标记为“越低越好”的属性会向更低数值优化。</TurkeyLeg_QM_CustomPresetDescription>
+  <TurkeyLeg_QM_Name>名称：</TurkeyLeg_QM_Name>
+  <TurkeyLeg_QM_AutoNamed>根据所选加成自动命名</TurkeyLeg_QM_AutoNamed>
+  <TurkeyLeg_QM_SearchPlaceholder>搜索……</TurkeyLeg_QM_SearchPlaceholder>
+  <TurkeyLeg_QM_Temperature>温度</TurkeyLeg_QM_Temperature>
+  <TurkeyLeg_QM_Mobility>机动</TurkeyLeg_QM_Mobility>
+  <TurkeyLeg_QM_Shooting>射击</TurkeyLeg_QM_Shooting>
+  <TurkeyLeg_QM_MeleeCategory>近战</TurkeyLeg_QM_MeleeCategory>
+  <TurkeyLeg_QM_Work>工作</TurkeyLeg_QM_Work>
+  <TurkeyLeg_QM_SocialCategory>社交</TurkeyLeg_QM_SocialCategory>
+  <TurkeyLeg_QM_Carry>负重</TurkeyLeg_QM_Carry>
+  <TurkeyLeg_QM_Other>其他</TurkeyLeg_QM_Other>
+  <TurkeyLeg_QM_LowerIsBetter>越低越好</TurkeyLeg_QM_LowerIsBetter>
+  <TurkeyLeg_QM_NoApparelForPolicy>当前套装中没有可保存到着装策略的服装。</TurkeyLeg_QM_NoApparelForPolicy>
+  <TurkeyLeg_QM_PickAtLeastOneBuff>请至少为该预设选择一项加成。</TurkeyLeg_QM_PickAtLeastOneBuff>
+
+  <!-- ========================================================= -->
+  <!-- 09. Exclusion manager -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_Gear>装备</TurkeyLeg_QM_Gear>
+  <TurkeyLeg_QM_Materials>材料</TurkeyLeg_QM_Materials>
+  <TurkeyLeg_QM_Search>搜索：</TurkeyLeg_QM_Search>
+  <TurkeyLeg_QM_Suggest>推荐：</TurkeyLeg_QM_Suggest>
+  <TurkeyLeg_QM_GroupBy>分组：</TurkeyLeg_QM_GroupBy>
+  <TurkeyLeg_QM_HeavyWeapons>重型武器</TurkeyLeg_QM_HeavyWeapons>
+  <TurkeyLeg_QM_OversizedClassTag>超大型（类别/标签）</TurkeyLeg_QM_OversizedClassTag>
+  <TurkeyLeg_QM_ByMod>按 Mod</TurkeyLeg_QM_ByMod>
+  <TurkeyLeg_QM_ByType>按类型</TurkeyLeg_QM_ByType>
+  <TurkeyLeg_QM_ByClassTag>按类别/标签</TurkeyLeg_QM_ByClassTag>
+  <TurkeyLeg_QM_ByBench>按工作台</TurkeyLeg_QM_ByBench>
+  <TurkeyLeg_QM_StagingItems>待排除物品</TurkeyLeg_QM_StagingItems>
+  <TurkeyLeg_QM_StagingMaterials>待排除材料</TurkeyLeg_QM_StagingMaterials>
+  <TurkeyLeg_QM_SelectAll>全选</TurkeyLeg_QM_SelectAll>
+  <TurkeyLeg_QM_None>无</TurkeyLeg_QM_None>
+  <TurkeyLeg_QM_NoItemsMatchSearchFilter>没有物品符合当前搜索或筛选条件。</TurkeyLeg_QM_NoItemsMatchSearchFilter>
+  <TurkeyLeg_QM_NoMaterialsMatchSearch>没有材料符合当前搜索。</TurkeyLeg_QM_NoMaterialsMatchSearch>
+  <TurkeyLeg_QM_NotCraftable>不可制作</TurkeyLeg_QM_NotCraftable>
+  <TurkeyLeg_QM_NoClassTag>无类别/标签</TurkeyLeg_QM_NoClassTag>
+  <TurkeyLeg_QM_Core>核心</TurkeyLeg_QM_Core>
+  <TurkeyLeg_QM_Metals>金属</TurkeyLeg_QM_Metals>
+  <TurkeyLeg_QM_Wood>木材</TurkeyLeg_QM_Wood>
+  <TurkeyLeg_QM_Leather>皮革</TurkeyLeg_QM_Leather>
+  <TurkeyLeg_QM_Fabric>织物</TurkeyLeg_QM_Fabric>
+  <TurkeyLeg_QM_Stony>石材</TurkeyLeg_QM_Stony>
+  <TurkeyLeg_QM_Ingredients>原料</TurkeyLeg_QM_Ingredients>
+
+  <!-- ========================================================= -->
+  <!-- 10. Options & mod settings -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_LockWindow>锁定窗口</TurkeyLeg_QM_LockWindow>
+  <TurkeyLeg_QM_UnlockWindow>解锁窗口</TurkeyLeg_QM_UnlockWindow>
+  <TurkeyLeg_QM_ResetWindowPosition>重置窗口位置</TurkeyLeg_QM_ResetWindowPosition>
+  <TurkeyLeg_QM_RestoreDefaultPresets>恢复默认预设</TurkeyLeg_QM_RestoreDefaultPresets>
+  <TurkeyLeg_QM_ModSettings>Mod 设置</TurkeyLeg_QM_ModSettings>
+  <TurkeyLeg_QM_Interface>界面</TurkeyLeg_QM_Interface>
+  <TurkeyLeg_QM_UseClassicInterface>使用经典界面</TurkeyLeg_QM_UseClassicInterface>
+  <TurkeyLeg_QM_RefreshedInterfaceDescription>新版界面会将视图标签、显示开关和操作按钮分别分区排列，并把窗口锁定与位置重置功能移动到军需官窗口右上角的“选项”菜单中。</TurkeyLeg_QM_RefreshedInterfaceDescription>
+
+  <!-- ========================================================= -->
+  <!-- 11. Weapon column tooltips -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_WeaponNameTooltip>武器名称。
+
+点击按此列排序；再次点击切换排序方向。</TurkeyLeg_QM_WeaponNameTooltip>
+  <TurkeyLeg_QM_BestMaterialTooltip>殖民地当前能够用于制作此武器的最佳材料。
+
+点击按此列排序；再次点击切换排序方向。</TurkeyLeg_QM_BestMaterialTooltip>
+  <TurkeyLeg_QM_WeaponScoreTooltip>默认评分：DPS(A) ×（1＋0.75 × 护甲穿透）。以命中率加权的伤害输出为基础，并对更高的护甲穿透给予额外加分。命中率会在已选择的评分距离之间取平均；如果武器无法在某个已选择距离开火，则该距离按 0 分计算。
+
+点击按此列排序；再次点击切换排序方向。</TurkeyLeg_QM_WeaponScoreTooltip>
+  <TurkeyLeg_QM_DPSTooltip>远程：根据所选评分距离的命中率加权计算每秒伤害（DPSA）。近战：平均 DPS。
+
+点击按此列排序；再次点击切换排序方向。</TurkeyLeg_QM_DPSTooltip>
+  <TurkeyLeg_QM_APTooltip>护甲穿透。
+
+点击按此列排序；再次点击切换排序方向。</TurkeyLeg_QM_APTooltip>
+  <TurkeyLeg_QM_DamageTooltip>单发伤害（远程）或工具平均伤害（近战）。
+
+点击按此列排序；再次点击切换排序方向。</TurkeyLeg_QM_DamageTooltip>
+  <TurkeyLeg_QM_RangeTooltip>最大射程，以格为单位（仅远程武器）。
+
+点击按此列排序；再次点击切换排序方向。</TurkeyLeg_QM_RangeTooltip>
+  <TurkeyLeg_QM_AccuracyCloseTooltip>贴身距离（3 格）的命中率。灰色数值表示该武器无法在此距离开火（属性值仅供参考；如果选择该距离，则评分按 0 计算）。颜色用于比较当前列表中的武器：红色为最低，绿色为最高。
+
+点击按此列排序；再次点击切换排序方向。</TurkeyLeg_QM_AccuracyCloseTooltip>
+  <TurkeyLeg_QM_AccuracyShortTooltip>短程距离（12 格）的命中率。灰色数值表示该武器无法在此距离开火（属性值仅供参考；如果选择该距离，则评分按 0 计算）。颜色用于比较当前列表中的武器：红色为最低，绿色为最高。
+
+点击按此列排序；再次点击切换排序方向。</TurkeyLeg_QM_AccuracyShortTooltip>
+  <TurkeyLeg_QM_AccuracyMediumTooltip>中程距离（25 格）的命中率。灰色数值表示该武器无法在此距离开火（属性值仅供参考；如果选择该距离，则评分按 0 计算）。颜色用于比较当前列表中的武器：红色为最低，绿色为最高。
+
+点击按此列排序；再次点击切换排序方向。</TurkeyLeg_QM_AccuracyMediumTooltip>
+  <TurkeyLeg_QM_AccuracyLongTooltip>远程距离（40 格）的命中率。灰色数值表示该武器无法在此距离开火（属性值仅供参考；如果选择该距离，则评分按 0 计算）。颜色用于比较当前列表中的武器：红色为最低，绿色为最高。
+
+点击按此列排序；再次点击切换排序方向。</TurkeyLeg_QM_AccuracyLongTooltip>
+  <TurkeyLeg_QM_AttackCycleTooltip>每次攻击周期所需秒数：远程为瞄准时间＋冷却时间，近战为冷却时间。越低越好。
+
+点击按此列排序；再次点击切换排序方向。</TurkeyLeg_QM_AttackCycleTooltip>
+  <TurkeyLeg_QM_BurstTooltip>每轮连发的射击次数（仅远程）。
+
+点击按此列排序；再次点击切换排序方向。</TurkeyLeg_QM_BurstTooltip>
+  <TurkeyLeg_QM_MassTooltip>质量（kg）。越低越好。
+
+点击按此列排序；再次点击切换排序方向。</TurkeyLeg_QM_MassTooltip>
+  <TurkeyLeg_QM_MarketValueTooltip>市场价值。
+
+点击按此列排序；再次点击切换排序方向。</TurkeyLeg_QM_MarketValueTooltip>
+
+  <!-- ========================================================= -->
+  <!-- 12. Weapon score-range tooltips -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_IncludeCloseRangeTooltip>将贴身距离（3 格）纳入远程武器评分。
+
+评分会对所选距离的命中率取平均；如果武器无法在某个已选择距离开火，则该距离评分按 0 计算。</TurkeyLeg_QM_IncludeCloseRangeTooltip>
+  <TurkeyLeg_QM_IncludeShortRangeTooltip>将短程距离（12 格）纳入远程武器评分。
+
+评分会对所选距离的命中率取平均；如果武器无法在某个已选择距离开火，则该距离评分按 0 计算。</TurkeyLeg_QM_IncludeShortRangeTooltip>
+  <TurkeyLeg_QM_IncludeMediumRangeTooltip>将中程距离（25 格）纳入远程武器评分。
+
+评分会对所选距离的命中率取平均；如果武器无法在某个已选择距离开火，则该距离评分按 0 计算。</TurkeyLeg_QM_IncludeMediumRangeTooltip>
+  <TurkeyLeg_QM_IncludeLongRangeTooltip>将远程距离（40 格）纳入远程武器评分。
+
+评分会对所选距离的命中率取平均；如果武器无法在某个已选择距离开火，则该距离评分按 0 计算。</TurkeyLeg_QM_IncludeLongRangeTooltip>
+
+  <!-- ========================================================= -->
+  <!-- 13. Generated item / weapon tooltip fixed text -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_CraftingCost>制作成本：</TurkeyLeg_QM_CraftingCost>
+  <TurkeyLeg_QM_UtilityStats>实用属性：</TurkeyLeg_QM_UtilityStats>
+  <TurkeyLeg_QM_RangedWeapon>远程武器</TurkeyLeg_QM_RangedWeapon>
+  <TurkeyLeg_QM_ThrownWeapon>投掷武器</TurkeyLeg_QM_ThrownWeapon>
+  <TurkeyLeg_QM_MeleeWeapon>近战武器</TurkeyLeg_QM_MeleeWeapon>
+  <TurkeyLeg_QM_AnyMaterial>任意材料</TurkeyLeg_QM_AnyMaterial>
+  <TurkeyLeg_QM_MissingResearch>缺少：研究尚未完成</TurkeyLeg_QM_MissingResearch>
+  <TurkeyLeg_QM_MissingBench>缺少：未建造所需工作台</TurkeyLeg_QM_MissingBench>
+  <TurkeyLeg_QM_MissingMaterials>缺少：库存材料不足</TurkeyLeg_QM_MissingMaterials>
+  <TurkeyLeg_QM_AllScoreRanges>贴身、短程、中程、远程</TurkeyLeg_QM_AllScoreRanges>
+  <TurkeyLeg_QM_UnreachableRanges>（无法攻击的距离按 0 分计算）</TurkeyLeg_QM_UnreachableRanges>
+  <TurkeyLeg_QM_NoCraftableWeapons>当前无法制作任何武器。
+请建造制作工作台并完成研究，
+或启用“显示不可用物品”查看缺少什么。</TurkeyLeg_QM_NoCraftableWeapons>
+  <TurkeyLeg_QM_Quality>品质：</TurkeyLeg_QM_Quality>
+  <TurkeyLeg_QM_NoCraftableArmor>当前无法制作任何护甲。
+请建造制作工作台并完成研究，
+或启用“显示不可用物品”查看缺少什么。</TurkeyLeg_QM_NoCraftableArmor>
+  <TurkeyLeg_QM_NoCraftableBuffItems>当前没有具有加成属性的可制作物品。
+启用“显示不可用物品”即可查看尚未解锁的物品。</TurkeyLeg_QM_NoCraftableBuffItems>
+
+  <!-- ========================================================= -->
+  <!-- 14. DLC / general grouping tags -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_Tag_Anomaly>异象</TurkeyLeg_QM_Tag_Anomaly>
+  <TurkeyLeg_QM_Tag_Biotech>生物科技</TurkeyLeg_QM_Tag_Biotech>
+  <TurkeyLeg_QM_Tag_Odyssey>奥德赛</TurkeyLeg_QM_Tag_Odyssey>
+  <TurkeyLeg_QM_Tag_Royalty>皇权</TurkeyLeg_QM_Tag_Royalty>
+  <TurkeyLeg_QM_Tag_Thrown>投掷</TurkeyLeg_QM_Tag_Thrown>
+  <TurkeyLeg_QM_Tag_AnimalPart>动物部件</TurkeyLeg_QM_Tag_AnimalPart>
+  <TurkeyLeg_QM_Tag_ApparelYttakin>亚塔金服装</TurkeyLeg_QM_Tag_ApparelYttakin>
+  <TurkeyLeg_QM_Tag_Artifact>神器</TurkeyLeg_QM_Tag_Artifact>
+  <TurkeyLeg_Tag_Accessories>配饰</TurkeyLeg_Tag_Accessories>
+  <TurkeyLeg_Tag_Other>其他</TurkeyLeg_Tag_Other>
+  <TurkeyLeg_QM_Persona>人格</TurkeyLeg_QM_Persona>
+
+  <!-- ========================================================= -->
+  <!-- 15. Weapon / apparel class tags -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_Tag_Artillery>火炮</TurkeyLeg_QM_Tag_Artillery>
+  <TurkeyLeg_QM_Tag_ArtilleryBaseDestroyer>基地破坏火炮</TurkeyLeg_QM_Tag_ArtilleryBaseDestroyer>
+  <TurkeyLeg_QM_Tag_AssaultRifle>突击步枪</TurkeyLeg_QM_Tag_AssaultRifle>
+  <TurkeyLeg_QM_Tag_Autopistol>自动手枪</TurkeyLeg_QM_Tag_Autopistol>
+  <TurkeyLeg_QM_Tag_Axe>斧</TurkeyLeg_QM_Tag_Axe>
+  <TurkeyLeg_QM_Tag_BasicClothing>基础服装</TurkeyLeg_QM_Tag_BasicClothing>
+  <TurkeyLeg_QM_Tag_BeamGraserGun>光束激射武器</TurkeyLeg_QM_Tag_BeamGraserGun>
+  <TurkeyLeg_QM_Tag_BeltDefense>防御腰带</TurkeyLeg_QM_Tag_BeltDefense>
+  <TurkeyLeg_QM_Tag_BeltDefensePop>防御腰带（Pop）</TurkeyLeg_QM_Tag_BeltDefensePop>
+  <TurkeyLeg_QM_Tag_BeltDefenseTox>防御腰带（毒素）</TurkeyLeg_QM_Tag_BeltDefenseTox>
+  <TurkeyLeg_QM_Tag_BestowerHood>赐封者兜帽</TurkeyLeg_QM_Tag_BestowerHood>
+  <TurkeyLeg_QM_Tag_Bladelink>刀锋链接</TurkeyLeg_QM_Tag_Bladelink>
+  <TurkeyLeg_QM_Tag_Cape>披风</TurkeyLeg_QM_Tag_Cape>
+  <TurkeyLeg_QM_Tag_ChargeBlasterHeavyGun>重型电荷爆能武器</TurkeyLeg_QM_Tag_ChargeBlasterHeavyGun>
+  <TurkeyLeg_QM_Tag_Clothing>服装</TurkeyLeg_QM_Tag_Clothing>
+  <TurkeyLeg_QM_Tag_Drugs>药物</TurkeyLeg_QM_Tag_Drugs>
+  <TurkeyLeg_QM_Tag_EltexStaff>灵能杖</TurkeyLeg_QM_Tag_EltexStaff>
+  <TurkeyLeg_QM_Tag_EmpireGrenadeDestructive>帝国破坏手榴弹</TurkeyLeg_QM_Tag_EmpireGrenadeDestructive>
+  <TurkeyLeg_QM_Tag_ExoticMisc>异域杂项</TurkeyLeg_QM_Tag_ExoticMisc>
+  <TurkeyLeg_QM_Tag_Flamethrower>火焰喷射器</TurkeyLeg_QM_Tag_Flamethrower>
+  <TurkeyLeg_QM_Tag_GrenadeDestructive>破坏性手榴弹</TurkeyLeg_QM_Tag_GrenadeDestructive>
+  <TurkeyLeg_QM_Tag_GrenadeEMP>EMP 手榴弹</TurkeyLeg_QM_Tag_GrenadeEMP>
+  <TurkeyLeg_QM_Tag_GrenadeFlame>燃烧手榴弹</TurkeyLeg_QM_Tag_GrenadeFlame>
+  <TurkeyLeg_QM_Tag_GrenadeSmoke>烟雾手榴弹</TurkeyLeg_QM_Tag_GrenadeSmoke>
+  <TurkeyLeg_QM_Tag_GrenadeTox>毒素手榴弹</TurkeyLeg_QM_Tag_GrenadeTox>
+  <TurkeyLeg_QM_Tag_Gun>枪械</TurkeyLeg_QM_Tag_Gun>
+  <TurkeyLeg_QM_Tag_GunHeavy>重型枪械</TurkeyLeg_QM_Tag_GunHeavy>
+  <TurkeyLeg_QM_Tag_Gunlink>枪械链接</TurkeyLeg_QM_Tag_Gunlink>
+  <TurkeyLeg_QM_Tag_GunSingleUse>一次性枪械</TurkeyLeg_QM_Tag_GunSingleUse>
+  <TurkeyLeg_QM_Tag_HeavyTox>重型毒素武器</TurkeyLeg_QM_Tag_HeavyTox>
+  <TurkeyLeg_QM_Tag_HellsphereCannonGun>地狱球炮</TurkeyLeg_QM_Tag_HellsphereCannonGun>
+  <TurkeyLeg_QM_Tag_HiTechArmor>高科技护甲</TurkeyLeg_QM_Tag_HiTechArmor>
+  <TurkeyLeg_QM_Tag_HoraxArmor>Horax 护甲</TurkeyLeg_QM_Tag_HoraxArmor>
+  <TurkeyLeg_QM_Tag_Horaxian>Horax 系</TurkeyLeg_QM_Tag_Horaxian>
+  <TurkeyLeg_QM_Tag_HoraxianCeremonial>Horax 仪式装备</TurkeyLeg_QM_Tag_HoraxianCeremonial>
+  <TurkeyLeg_QM_Tag_HoraxWeapon>Horax 武器</TurkeyLeg_QM_Tag_HoraxWeapon>
+  <TurkeyLeg_QM_Tag_IndustrialAdvanced>工业高级</TurkeyLeg_QM_Tag_IndustrialAdvanced>
+  <TurkeyLeg_QM_Tag_IndustrialBasic>工业基础</TurkeyLeg_QM_Tag_IndustrialBasic>
+  <TurkeyLeg_QM_Tag_IndustrialGunAdvanced>工业高级枪械</TurkeyLeg_QM_Tag_IndustrialGunAdvanced>
+  <TurkeyLeg_QM_Tag_IndustrialMilitaryAdvanced>工业高级军用</TurkeyLeg_QM_Tag_IndustrialMilitaryAdvanced>
+  <TurkeyLeg_QM_Tag_IndustrialMilitaryBasic>工业基础军用</TurkeyLeg_QM_Tag_IndustrialMilitaryBasic>
+  <TurkeyLeg_QM_Tag_InfernoCannonGun>炼狱炮</TurkeyLeg_QM_Tag_InfernoCannonGun>
+  <TurkeyLeg_QM_Tag_LongShots>远射</TurkeyLeg_QM_Tag_LongShots>
+  <TurkeyLeg_QM_Tag_LongSword>长剑</TurkeyLeg_QM_Tag_LongSword>
+  <TurkeyLeg_QM_Tag_Mechlord>机械领主</TurkeyLeg_QM_Tag_Mechlord>
+  <TurkeyLeg_QM_Tag_MechonoidGunBreach>机械族破障武器</TurkeyLeg_QM_Tag_MechonoidGunBreach>
+  <TurkeyLeg_QM_Tag_MechonoidGunHeavy>机械族重型枪械</TurkeyLeg_QM_Tag_MechonoidGunHeavy>
+  <TurkeyLeg_QM_Tag_MechonoidGunLongRange>机械族远程枪械</TurkeyLeg_QM_Tag_MechonoidGunLongRange>
+  <TurkeyLeg_QM_Tag_MechonoidGunMedium>机械族中程枪械</TurkeyLeg_QM_Tag_MechonoidGunMedium>
+  <TurkeyLeg_QM_Tag_MechonoidGunMiniFlameblaster>机械族迷你火焰爆能枪</TurkeyLeg_QM_Tag_MechonoidGunMiniFlameblaster>
+  <TurkeyLeg_QM_Tag_MechonoidGunNeedleLauncher>机械族针刺发射器</TurkeyLeg_QM_Tag_MechonoidGunNeedleLauncher>
+  <TurkeyLeg_QM_Tag_MechonoidGunShortRange>机械族近程枪械</TurkeyLeg_QM_Tag_MechonoidGunShortRange>
+  <TurkeyLeg_QM_Tag_MechonoidGunSlugthrower>机械族弹丸枪</TurkeyLeg_QM_Tag_MechonoidGunSlugthrower>
+  <TurkeyLeg_QM_Tag_MechonoidGunSpiner>机械族 Spiner 武器</TurkeyLeg_QM_Tag_MechonoidGunSpiner>
+  <TurkeyLeg_QM_Tag_MechonoidGunToxicNeedle>机械族毒针枪</TurkeyLeg_QM_Tag_MechonoidGunToxicNeedle>
+  <TurkeyLeg_QM_Tag_MedievalMeleeAdvanced>中世纪高级近战</TurkeyLeg_QM_Tag_MedievalMeleeAdvanced>
+  <TurkeyLeg_QM_Tag_MedievalMeleeBasic>中世纪基础近战</TurkeyLeg_QM_Tag_MedievalMeleeBasic>
+  <TurkeyLeg_QM_Tag_MedievalMeleeDecent>中世纪优良近战</TurkeyLeg_QM_Tag_MedievalMeleeDecent>
+  <TurkeyLeg_QM_Tag_MedievalMilitary>中世纪军用</TurkeyLeg_QM_Tag_MedievalMilitary>
+  <TurkeyLeg_QM_Tag_MeleeBlunt>钝击近战</TurkeyLeg_QM_Tag_MeleeBlunt>
+  <TurkeyLeg_QM_Tag_MeleePiercer>穿刺近战</TurkeyLeg_QM_Tag_MeleePiercer>
+  <TurkeyLeg_QM_Tag_Minigun>转轮机枪</TurkeyLeg_QM_Tag_Minigun>
+  <TurkeyLeg_QM_Tag_Neolithic>新石器时代</TurkeyLeg_QM_Tag_Neolithic>
+  <TurkeyLeg_QM_Tag_NeolithicMeleeAdvanced>新石器高级近战</TurkeyLeg_QM_Tag_NeolithicMeleeAdvanced>
+  <TurkeyLeg_QM_Tag_NeolithicMeleeBasic>新石器基础近战</TurkeyLeg_QM_Tag_NeolithicMeleeBasic>
+  <TurkeyLeg_QM_Tag_NeolithicMeleeDecent>新石器优良近战</TurkeyLeg_QM_Tag_NeolithicMeleeDecent>
+  <TurkeyLeg_QM_Tag_NeolithicMeleeDestructive>新石器破坏性近战</TurkeyLeg_QM_Tag_NeolithicMeleeDestructive>
+  <TurkeyLeg_QM_Tag_NeolithicRangedBasic>新石器基础远程</TurkeyLeg_QM_Tag_NeolithicRangedBasic>
+  <TurkeyLeg_QM_Tag_NeolithicRangedChief>新石器首领远程</TurkeyLeg_QM_Tag_NeolithicRangedChief>
+  <TurkeyLeg_QM_Tag_NeolithicRangedDecent>新石器优良远程</TurkeyLeg_QM_Tag_NeolithicRangedDecent>
+  <TurkeyLeg_QM_Tag_NeolithicRangedFlame>新石器燃烧远程</TurkeyLeg_QM_Tag_NeolithicRangedFlame>
+  <TurkeyLeg_QM_Tag_NeolithicRangedHeavy>新石器重型远程</TurkeyLeg_QM_Tag_NeolithicRangedHeavy>
+  <TurkeyLeg_QM_Tag_NerveSpiker>神经刺击器</TurkeyLeg_QM_Tag_NerveSpiker>
+  <TurkeyLeg_QM_Tag_NoRelic>非遗物</TurkeyLeg_QM_Tag_NoRelic>
+  <TurkeyLeg_QM_Tag_PackJump>跳跃背包</TurkeyLeg_QM_Tag_PackJump>
+  <TurkeyLeg_QM_Tag_PrestigeCombatGear>威望战斗装备</TurkeyLeg_QM_Tag_PrestigeCombatGear>
+  <TurkeyLeg_QM_Tag_Psychic>灵能</TurkeyLeg_QM_Tag_Psychic>
+  <TurkeyLeg_QM_Tag_PsychicApparel>灵能服装</TurkeyLeg_QM_Tag_PsychicApparel>
+  <TurkeyLeg_QM_Tag_PsychicWeapon>灵能武器</TurkeyLeg_QM_Tag_PsychicWeapon>
+  <TurkeyLeg_QM_Tag_PumpShotgun>泵动霰弹枪</TurkeyLeg_QM_Tag_PumpShotgun>
+  <TurkeyLeg_QM_Tag_RangedHeavy>重型远程</TurkeyLeg_QM_Tag_RangedHeavy>
+  <TurkeyLeg_QM_Tag_RangedLight>轻型远程</TurkeyLeg_QM_Tag_RangedLight>
+  <TurkeyLeg_QM_Tag_Revolver>左轮手枪</TurkeyLeg_QM_Tag_Revolver>
+  <TurkeyLeg_QM_Tag_Robe>长袍</TurkeyLeg_QM_Tag_Robe>
+  <TurkeyLeg_QM_Tag_Royal>皇室</TurkeyLeg_QM_Tag_Royal>
+  <TurkeyLeg_QM_Tag_RoyalRobe>皇室长袍</TurkeyLeg_QM_Tag_RoyalRobe>
+  <TurkeyLeg_QM_Tag_RoyalTier2>皇室等级 2</TurkeyLeg_QM_Tag_RoyalTier2>
+  <TurkeyLeg_QM_Tag_RoyalTier3>皇室等级 3</TurkeyLeg_QM_Tag_RoyalTier3>
+  <TurkeyLeg_QM_Tag_RoyalTier4>皇室等级 4</TurkeyLeg_QM_Tag_RoyalTier4>
+  <TurkeyLeg_QM_Tag_RoyalTier5>皇室等级 5</TurkeyLeg_QM_Tag_RoyalTier5>
+  <TurkeyLeg_QM_Tag_RoyalTier6>皇室等级 6</TurkeyLeg_QM_Tag_RoyalTier6>
+  <TurkeyLeg_QM_Tag_RoyalTier7>皇室等级 7</TurkeyLeg_QM_Tag_RoyalTier7>
+  <TurkeyLeg_QM_Tag_SentryDroneGunShortRange>哨戒无人机近程枪械</TurkeyLeg_QM_Tag_SentryDroneGunShortRange>
+  <TurkeyLeg_QM_Tag_ShortShots>短射程</TurkeyLeg_QM_Tag_ShortShots>
+  <TurkeyLeg_QM_Tag_SimpleGun>简易枪械</TurkeyLeg_QM_Tag_SimpleGun>
+  <TurkeyLeg_QM_Tag_SniperRifle>狙击步枪</TurkeyLeg_QM_Tag_SniperRifle>
+  <TurkeyLeg_QM_Tag_SpacerGun>太空时代枪械</TurkeyLeg_QM_Tag_SpacerGun>
+  <TurkeyLeg_QM_Tag_SpacerMilitary>太空时代军用</TurkeyLeg_QM_Tag_SpacerMilitary>
+  <TurkeyLeg_QM_Tag_Spear>长矛</TurkeyLeg_QM_Tag_Spear>
+  <TurkeyLeg_QM_Tag_TurretGun>炮塔枪械</TurkeyLeg_QM_Tag_TurretGun>
+  <TurkeyLeg_QM_Tag_Ultratech>超科技</TurkeyLeg_QM_Tag_Ultratech>
+  <TurkeyLeg_QM_Tag_UltratechMelee>超科技近战</TurkeyLeg_QM_Tag_UltratechMelee>
+  <TurkeyLeg_QM_Tag_UtilitySpecial>特殊功能装备</TurkeyLeg_QM_Tag_UtilitySpecial>
+  <TurkeyLeg_QM_Tag_Vacsuit>真空服</TurkeyLeg_QM_Tag_Vacsuit>
+  <TurkeyLeg_QM_Tag_WeaponBeamRepeater>光束连发武器</TurkeyLeg_QM_Tag_WeaponBeamRepeater>
+  <TurkeyLeg_QM_Tag_WeaponRangedv>远程武器</TurkeyLeg_QM_Tag_WeaponRangedv>
+  <TurkeyLeg_QM_Tag_Western>西部</TurkeyLeg_QM_Tag_Western>
+
+  <!-- ========================================================= -->
+  <!-- 16. Pin item picker & confirmations -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_PinPickerDescription>勾选的物品将始终包含在生成的套装中（显示为“强制”）。优化器会围绕这些物品构建套装的其余部分。</TurkeyLeg_QM_PinPickerDescription>
+  <TurkeyLeg_QM_PinnedOnly>仅显示已固定</TurkeyLeg_QM_PinnedOnly>
+  <TurkeyLeg_QM_Done>完成</TurkeyLeg_QM_Done>
+  <TurkeyLeg_QM_NoItemsMatchCurrentFilter>没有物品符合当前筛选条件。</TurkeyLeg_QM_NoItemsMatchCurrentFilter>
+  <TurkeyLeg_QM_enforced>固定</TurkeyLeg_QM_enforced>
+  <TurkeyLeg_QM_RestoreFromExclusions>你可以随时从“排除项”菜单中恢复它。</TurkeyLeg_QM_RestoreFromExclusions>
+
+  <!-- ========================================================= -->
+  <!-- 17. Generated item / weapon tooltip text -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_HideFromRecommendations>要从“军需官”的推荐中隐藏“{0}”吗？</TurkeyLeg_QM_HideFromRecommendations>
+  <TurkeyLeg_QM_TooltipQuality>品质：{0}</TurkeyLeg_QM_TooltipQuality>
+  <TurkeyLeg_QM_IdenticalCopies>你有 {0} 件材质和品质相同的物品；“定位”会跳转到其中耐久度最高的一件。</TurkeyLeg_QM_IdenticalCopies>
+  <TurkeyLeg_QM_TooltipScore>评分：{0}（DPS ×（1 + 0.75 × 护甲穿透））</TurkeyLeg_QM_TooltipScore>
+  <TurkeyLeg_QM_TooltipDPSA>有效秒伤（命中率加权）：{0}</TurkeyLeg_QM_TooltipDPSA>
+  <TurkeyLeg_QM_TooltipAverageDPS>平均秒伤：{0}</TurkeyLeg_QM_TooltipAverageDPS>
+  <TurkeyLeg_QM_TooltipAverageToolDamage>平均工具伤害：{0}</TurkeyLeg_QM_TooltipAverageToolDamage>
+  <TurkeyLeg_QM_TooltipScoreRanges>评分距离：贴身、短程、中程、远程（无法攻击的距离按 0 分计算）</TurkeyLeg_QM_TooltipScoreRanges>
+  <TurkeyLeg_QM_TooltipDamagePerShot>单发伤害：{0}</TurkeyLeg_QM_TooltipDamagePerShot>
+  <TurkeyLeg_QM_TooltipArmorPenetration>护甲穿透：{0}</TurkeyLeg_QM_TooltipArmorPenetration>
+  <TurkeyLeg_QM_TooltipRange>射程：{0} 格</TurkeyLeg_QM_TooltipRange>
+  <TurkeyLeg_QM_TooltipAccuracyRanges>命中率 贴身/短程/中程/远程：{0}</TurkeyLeg_QM_TooltipAccuracyRanges>
+  <TurkeyLeg_QM_TooltipAimCooldown>瞄准时间：{0}秒   冷却时间：{1}秒</TurkeyLeg_QM_TooltipAimCooldown>
+  <TurkeyLeg_QM_TooltipBurst>连发：{0} 发</TurkeyLeg_QM_TooltipBurst>
+  <TurkeyLeg_QM_TooltipAverageCooldown>平均冷却时间：{0}秒</TurkeyLeg_QM_TooltipAverageCooldown>
+  <TurkeyLeg_QM_TooltipMass>质量：{0} kg</TurkeyLeg_QM_TooltipMass>
+  <TurkeyLeg_QM_TooltipMarketValue>市场价值：{0}</TurkeyLeg_QM_TooltipMarketValue>
+  <TurkeyLeg_QM_TooltipAnyMaterial>任意材料 x{0}</TurkeyLeg_QM_TooltipAnyMaterial>
+
+  <!-- ========================================================= -->
+  <!-- 18. Dynamic UI text -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_MinCraftable>最低可制作：{0}</TurkeyLeg_QM_MinCraftable>
+  <TurkeyLeg_QM_MaxPiecesAll>装备件数上限：{0}（全部）</TurkeyLeg_QM_MaxPiecesAll>
+  <TurkeyLeg_QM_MaxPieces>装备件数上限：{0}</TurkeyLeg_QM_MaxPieces>
+  <TurkeyLeg_QM_BuffTypes>{0} 种加成类型</TurkeyLeg_QM_BuffTypes>
+  <TurkeyLeg_QM_PinnedCount>已固定：{0} 个</TurkeyLeg_QM_PinnedCount>
+  <TurkeyLeg_QM_RenamePresetTooltip>重命名“{0}”、修改其加成，或删除该预设。</TurkeyLeg_QM_RenamePresetTooltip>
+  <TurkeyLeg_QM_PickedCount>已选择 {0} 项</TurkeyLeg_QM_PickedCount>
+  <TurkeyLeg_QM_AddExclusions>添加排除项（{0}）</TurkeyLeg_QM_AddExclusions>
+  <TurkeyLeg_QM_RemoveExclusions>移除排除项（{0}）</TurkeyLeg_QM_RemoveExclusions>
+  <TurkeyLeg_QM_ClearAll>全部清除（{0}）</TurkeyLeg_QM_ClearAll>
+  <TurkeyLeg_QM_ExclusionsCount>排除项（{0}）</TurkeyLeg_QM_ExclusionsCount>
+  <TurkeyLeg_QM_ExcludedItems>已排除：{0} 个物品</TurkeyLeg_QM_ExcludedItems>
+  <TurkeyLeg_QM_ExcludedMaterials>已排除：{0} 种材料</TurkeyLeg_QM_ExcludedMaterials>
+  <TurkeyLeg_QM_DPSAValue>有效秒伤 {0}</TurkeyLeg_QM_DPSAValue>
+  <TurkeyLeg_QM_DPSValue>秒伤 {0}</TurkeyLeg_QM_DPSValue>
+  <TurkeyLeg_QM_SharpValue>锐器 {0}%</TurkeyLeg_QM_SharpValue>
+  <TurkeyLeg_QM_SectionCount>{0}（{1}）</TurkeyLeg_QM_SectionCount>
+  <TurkeyLeg_QM_PinItemsTitle>固定物品：{0}</TurkeyLeg_QM_PinItemsTitle>
+  <TurkeyLeg_QM_NeedsRequirements>缺少：{0}</TurkeyLeg_QM_NeedsRequirements>
+  <TurkeyLeg_QM_ClearCategoryPins>清除{0}固定项</TurkeyLeg_QM_ClearCategoryPins>
+  <TurkeyLeg_QM_ItemHiddenMessage>已从军需官的推荐中隐藏“{0}”。可随时从“排除项”菜单中恢复。</TurkeyLeg_QM_ItemHiddenMessage>
+  <TurkeyLeg_QM_PolicyCreatedMessage>已创建着装策略“{0}”，允许 {1} 项物品。请在殖民者的“着装”标签页中分配该策略。</TurkeyLeg_QM_PolicyCreatedMessage>
+
+  <!-- ========================================================= -->
+  <!-- 21. Body-part / apparel-layer tokens -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_Slot_Body>躯干</TurkeyLeg_QM_Slot_Body>
+  <TurkeyLeg_QM_Slot_Head>头部</TurkeyLeg_QM_Slot_Head>
+  <TurkeyLeg_QM_Slot_Legs>腿部</TurkeyLeg_QM_Slot_Legs>
+  <TurkeyLeg_QM_Slot_Arms>手臂</TurkeyLeg_QM_Slot_Arms>
+  <TurkeyLeg_QM_Slot_Hands>手部</TurkeyLeg_QM_Slot_Hands>
+  <TurkeyLeg_QM_Slot_Feet>脚部</TurkeyLeg_QM_Slot_Feet>
+  <TurkeyLeg_QM_Slot_Neck>颈部</TurkeyLeg_QM_Slot_Neck>
+  <TurkeyLeg_QM_Slot_Shoulders>肩部</TurkeyLeg_QM_Slot_Shoulders>
+  <TurkeyLeg_QM_Slot_Eyes>眼部</TurkeyLeg_QM_Slot_Eyes>
+  <TurkeyLeg_QM_Slot_Ears>耳部</TurkeyLeg_QM_Slot_Ears>
+  <TurkeyLeg_QM_Slot_Mouth>嘴部</TurkeyLeg_QM_Slot_Mouth>
+  <TurkeyLeg_QM_Slot_Face>面部</TurkeyLeg_QM_Slot_Face>
+  <TurkeyLeg_QM_Layer_Skin>贴身</TurkeyLeg_QM_Layer_Skin>
+  <TurkeyLeg_QM_Layer_Middle>中层</TurkeyLeg_QM_Layer_Middle>
+  <TurkeyLeg_QM_Layer_Outer>外层</TurkeyLeg_QM_Layer_Outer>
+  <TurkeyLeg_QM_Layer_Shell>外壳</TurkeyLeg_QM_Layer_Shell>
+  <TurkeyLeg_QM_Layer_Overhead>头戴</TurkeyLeg_QM_Layer_Overhead>
+  <TurkeyLeg_QM_Layer_Belt>腰部</TurkeyLeg_QM_Layer_Belt>
+
+  <!-- ========================================================= -->
+  <!-- 22. Requirement tokens -->
+  <!-- ========================================================= -->
+
+  <TurkeyLeg_QM_Requirement_Research>研究</TurkeyLeg_QM_Requirement_Research>
+  <TurkeyLeg_QM_Requirement_Bench>工作台</TurkeyLeg_QM_Requirement_Bench>
+  <TurkeyLeg_QM_Requirement_Materials>材料</TurkeyLeg_QM_Requirement_Materials>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: quartermaster -->
+  <Quartermaster.label>quartermaster</Quartermaster.label>
+  <!-- EN: Shows the best armor, weapons, and gear your colony can currently craft. -->
+  <Quartermaster.description>Shows the best armor, weapons, and gear your colony can currently craft.</Quartermaster.description>
+  
+</LanguageData>
