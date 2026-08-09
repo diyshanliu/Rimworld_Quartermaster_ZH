@@ -171,6 +171,12 @@ Manage hidden items via the Exclusions button.</TurkeyLeg_QM_HideItemTooltip>
   <TurkeyLeg_QM_LowerIsBetter>lower is better</TurkeyLeg_QM_LowerIsBetter>
   <TurkeyLeg_QM_NoApparelForPolicy>No apparel in the current set to save into a policy.</TurkeyLeg_QM_NoApparelForPolicy>
   <TurkeyLeg_QM_PickAtLeastOneBuff>Pick at least one buff for the preset.</TurkeyLeg_QM_PickAtLeastOneBuff>
+  <TurkeyLeg_QM_DeletePreset>Delete preset</TurkeyLeg_QM_DeletePreset>
+  <TurkeyLeg_QM_EditPresetTitle>Edit preset: {0}</TurkeyLeg_QM_EditPresetTitle>
+  <TurkeyLeg_QM_DeletePresetConfirmation>Delete the custom preset "{0}"?</TurkeyLeg_QM_DeletePresetConfirmation>
+  <TurkeyLeg_QM_TooltipScoreRangesDynamic>Score ranges: {0} (unreachable ranges count as 0)</TurkeyLeg_QM_TooltipScoreRangesDynamic>
+  <TurkeyLeg_QM_NoCraftableWeaponDefinitions>No craftable weapon definitions found.
+(Some weapon types are unticked in the Types row above.)</TurkeyLeg_QM_NoCraftableWeaponDefinitions>
 
   <!-- ========================================================= -->
   <!-- 09. Exclusion manager -->

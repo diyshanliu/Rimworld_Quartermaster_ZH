@@ -171,6 +171,11 @@
   <TurkeyLeg_QM_LowerIsBetter>越低越好</TurkeyLeg_QM_LowerIsBetter>
   <TurkeyLeg_QM_NoApparelForPolicy>當前套裝中沒有可儲存到著裝策略的服裝。</TurkeyLeg_QM_NoApparelForPolicy>
   <TurkeyLeg_QM_PickAtLeastOneBuff>請至少為該預設選擇一項加成。</TurkeyLeg_QM_PickAtLeastOneBuff>
+  <TurkeyLeg_QM_DeletePreset>刪除預設</TurkeyLeg_QM_DeletePreset>
+  <TurkeyLeg_QM_EditPresetTitle>編輯預設：{0}</TurkeyLeg_QM_EditPresetTitle>
+  <TurkeyLeg_QM_DeletePresetConfirmation>確定要刪除自定義預設“{0}”嗎？</TurkeyLeg_QM_DeletePresetConfirmation>
+  <TurkeyLeg_QM_TooltipScoreRangesDynamic>評分距離：{0}（無法攻擊的距離按 0 分計算）</TurkeyLeg_QM_TooltipScoreRangesDynamic>
+  <TurkeyLeg_QM_NoCraftableWeaponDefinitions>當前沒有符合篩選條件的可製作武器。&#10;（上方「型別」一欄中有武器型別未勾選。）</TurkeyLeg_QM_NoCraftableWeaponDefinitions>
 
   <!-- ========================================================= -->
   <!-- 09. Exclusion manager -->
