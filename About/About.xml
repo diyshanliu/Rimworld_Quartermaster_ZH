@@ -2,6 +2,13 @@
 <ModMetaData>
 	<name>Quartermaster ZH简繁汉化</name>
 	<author>DiyshanLiu</author>
+	<modDependencies>
+	<li>
+		<packageId>slim.quartermaster</packageId>
+		<displayName>Quartermaster</displayName>
+		<steamWorkshopUrl>steam://url/CommunityFilePage/3737474260</steamWorkshopUrl>
+	</li>
+	</modDependencies>
 	<supportedVersions>
 		<li>1.6</li>
 		<li>1.7</li>
